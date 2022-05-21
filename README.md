@@ -1,2 +1,2 @@
 # NAI
-Narzędzia AI (4 semestr PJATK)
+Narzędzia AI (4 semestr PJATK) 
