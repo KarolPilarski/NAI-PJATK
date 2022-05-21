@@ -1,0 +1,223 @@
+Intel Corporation, stylized as intel, is an American multinational corporation and technology company headquartered in Santa Clara, California. It is the world's largest semiconductor chip manufacturer by revenue,[4][5] and is the developer of the x86 series of microprocessors, the processors found in most personal computers (PCs). Incorporated in Delaware,[6] Intel ranked No. 45 in the 2020 Fortune 500 list of the largest United States corporations by total revenue for nearly a decade, from 2007 to 2016 fiscal years.[7]
+
+Intel supplies microprocessors for computer system manufacturers such as Acer, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated circuits, flash memory, graphics chips, embedded processors and other devices related to communications and computing.
+
+Intel (integrated and electronics) was founded on July 18, 1968, by semiconductor pioneers Gordon Moore (of Moore's law) and Robert Noyce, and is associated with the executive leadership and vision of Andrew Grove. Intel was a key component of the rise of Silicon Valley as a high-tech center. Noyce was a key inventor of the integrated circuit (microchip).[citation needed] Intel was an early developer of SRAM and DRAM memory chips, which represented the majority of its business until 1981. Although Intel created the world's first commercial microprocessor chip in 1971, it was not until the success of the personal computer (PC) that this became its primary business.
+
+During the 1990s, Intel invested heavily in new microprocessor designs fostering the rapid growth of the computer industry. During this period, Intel became the dominant supplier of microprocessors for PCs and was known for aggressive and anti-competitive tactics in defense of its market position, particularly against Advanced Micro Devices (AMD), as well as a struggle with Microsoft for control over the direction of the PC industry.[8][9]
+
+The Open Source Technology Center at Intel hosts PowerTOP and LatencyTOP, and supports other open-source projects such as Wayland, Mesa, Threading Building Blocks (TBB), and Xen.[10]
+
+
+Contents
+1	Current operations
+1.1	Operating segments
+1.2	Customers
+1.3	Market share
+1.4	Major competitors
+1.5	Carbon footprint
+2	Corporate history
+2.1	Origins
+2.2	Early history
+2.3	Challenges to dominance (2000s)
+2.4	Reorganization and success with Intel Core (2005–2015)
+2.5	Security and manufacturing challenges (2016–2021)
+2.6	Renewed competition and other developments (2018–present)
+3	Product and market history
+3.1	SRAMs, DRAMs, and the microprocessor
+3.2	Early x86 processors and the IBM PC
+3.3	Intel Core
+3.4	Use of Intel products by Apple Inc. (2005–2019)
+3.5	Solid-state drives (SSD)
+3.6	Supercomputers
+3.7	Fog computing
+3.8	Self-driving cars
+3.9	Programmable devices
+3.10	Competition, antitrust and espionage
+4	Corporate affairs
+4.1	Leadership and corporate structure
+4.2	Board of directors
+4.3	Ownership
+4.4	Employment
+4.5	School funding in New Mexico in 1997
+4.6	Intel Israel
+4.7	Acquisitions and investments (2010–present)
+4.8	Ultrabook fund (2011)
+4.9	Open source support
+5	Corporate identity
+5.1	Logo
+5.2	Intel Inside
+5.3	Sonic logo
+5.4	Processor naming strategy
+5.5	Typography
+5.6	Intel Brand Book
+6	Litigation and regulatory attacks
+6.1	Patent infringement litigation (2006–2007)
+6.2	Antitrust allegations and litigation (2005–2009)
+6.3	Corporate responsibility record
+6.4	Age discrimination complaints
+6.5	Tax dispute in India
+7	See also
+8	Notes
+9	References
+10	External links
+Current operations
+Operating segments
+Client Computing Group – 51.8% of 2020 revenues – produces PC processors and related components.[11][12]
+Data Center Group – 33.7% of 2020 revenues – produces hardware components used in server, network, and storage platforms.[11]
+Non-Volatile Memory Solutions Group – 6.9% of 2020 revenues – produces components for solid-state drives: NAND flash memory and 3D XPoint (Optane).[11]
+Internet of Things Group – 5.2% of 2020 revenues – offers platforms designed for retail, transportation, industrial, buildings and home use.[11]
+Programmable Solutions Group – 2.4% of 2020 revenues – manufactures programmable semiconductors (primarily FPGAs).[11]
+Customers
+In 2020, Dell accounted for about 17% of Intel's total revenues, Lenovo accounted for 12% of total revenues, and HP Inc. accounted for 10% of total revenues.[2] As of August 2021 US Department of Defense is another large customer for Intel.[13][14][15][16]
+
+Market share
+According to IDC, while Intel enjoyed the biggest market share in both the overall worldwide PC microprocessor market (73.3%) and the mobile PC microprocessor (80.4%) in the second quarter of 2011, the numbers decreased by 1.5% and 1.9% compared to the first quarter of 2011.[17][18]
+
+Intel's market share decreased significantly in the enthusiast market as of 2019,[19] and they have faced delays for their 10 nm products. According to former Intel CEO Bob Swan, the delay was caused by the company's overly aggressive strategy for moving to its next node.[20]
+
+Historical market share
+In the 1980s Intel was among the top ten sellers of semiconductors (10th in 1987) in the world. In 1992,[21] Intel became the biggest chip maker by revenue and held the position until 2018 when it was surpassed by Samsung, but Intel returned to its former position the year after.[22] Other top semiconductor companies include TSMC, Advanced Micro Devices, Samsung, Texas Instruments, Toshiba and STMicroelectronics.
+
+Major competitors
+Intel's competitors in PC chipsets included Advanced Micro Devices (AMD), VIA Technologies, Silicon Integrated Systems, and Nvidia. Intel's competitors in networking include NXP Semiconductors, Infineon,[needs update] Broadcom Limited, Marvell Technology Group and Applied Micro Circuits Corporation, and competitors in flash memory included Spansion, Samsung Electronics, Qimonda, Toshiba, STMicroelectronics, and SK Hynix.
+
+The only major competitor in the x86 processor market is AMD, with which Intel has had full cross-licensing agreements since 1976: each partner can use the other's patented technological innovations without charge after a certain time.[23] However, the cross-licensing agreement is canceled in the event of an AMD bankruptcy or takeover.[24]
+
+Some smaller competitors such as VIA Technologies produce low-power x86 processors for small factor computers and portable equipment. However, the advent of such mobile computing devices, in particular, smartphones, has in recent years led to a decline in PC sales.[25] Since over 95% of the world's smartphones currently use processors designed by ARM Holdings, ARM has become a major competitor for Intel's processor market. ARM is also planning to make inroads into the PC and server market.[26]
+
+Intel has been involved in several disputes regarding violation of antitrust laws, which are noted below.
+
+Carbon footprint
+Intel reported Total CO2e emissions (Direct + Indirect) for the twelve months ending 31 December 2020 at 2,882 Kt (+94/+3.4% y-o-y).[27] Intel plans to reduce carbon emissions 10% by 2030 from a 2020 base year.[28]
+
+Intel's annual Total CO2e emissions (Direct + Indirect) (in kilotonnes)
+Dec 2017	Dec 2018	Dec 2019	Dec 2020
+2,461[29]	2,578[30]	2,788[31]	2,882[27]
+Corporate history
+Further information: Timeline of Intel
+Origins
+
+Andy Grove, Robert Noyce and Gordon Moore in 1978
+Intel was founded in Mountain View, California, in 1968 by Gordon E. Moore (known for "Moore's law"), a chemist, and Robert Noyce, a physicist and co-inventor of the integrated circuit. Arthur Rock (investor and venture capitalist) helped them find investors, while Max Palevsky was on the board from an early stage.[32] Moore and Noyce had left Fairchild Semiconductor to found Intel. Rock was not an employee, but he was an investor and was chairman of the board.[33][34] The total initial investment in Intel was $2.5 million in convertible debentures (equivalent to $18.6 million in 2020) and $10,000 from Rock. Just 2 years later, Intel became a public company via an initial public offering (IPO), raising $6.8 million ($23.50 per share).[33] Intel's third employee was Andy Grove,[note 1] a chemical engineer, who later ran the company through much of the 1980s and the high-growth 1990s.
+
+In deciding on a name, Moore and Noyce quickly rejected "Moore Noyce",[35] near homophone for "more noise" – an ill-suited name for an electronics company, since noise in electronics is usually undesirable and typically associated with bad interference. Instead, they founded the company as NM Electronics (or MN Electronics) on July 18, 1968, but by the end of the month had changed the name to Intel which stood for Integrated Electronics.[note 2] Since "Intel" was already trademarked by the hotel chain Intelco, they had to buy the rights for the name.[33][41]
+
+Early history
+At its founding, Intel was distinguished by its ability to make logic circuits using semiconductor devices. The founders' goal was the semiconductor memory market, widely predicted to replace magnetic-core memory. Its first product, a quick entry into the small, high-speed memory market in 1969, was the 3101 Schottky TTL bipolar 64-bit static random-access memory (SRAM), which was nearly twice as fast as earlier Schottky diode implementations by Fairchild and the Electrotechnical Laboratory in Tsukuba, Japan.[42][43] In the same year, Intel also produced the 3301 Schottky bipolar 1024-bit read-only memory (ROM)[44] and the first commercial metal–oxide–semiconductor field-effect transistor (MOSFET) silicon gate SRAM chip, the 256-bit 1101.[33][45][46]
+
+While the 1101 was a significant advance, its complex static cell structure made it too slow and costly for mainframe memories. The three-transistor cell implemented in the first commercially available dynamic random-access memory (DRAM), the 1103 released in 1970, solved these issues. The 1103 was the bestselling semiconductor memory chip in the world by 1972, as it replaced core memory in many applications.[47][48] Intel's business grew during the 1970s as it expanded and improved its manufacturing processes and produced a wider range of products, still dominated by various memory devices.
+
+
+Federico Faggin, designer of the Intel 4004
+Intel created the first commercially available microprocessor (Intel 4004) in 1971.[33] The microprocessor represented a notable advance in the technology of integrated circuitry, as it miniaturized the central processing unit of a computer, which then made it possible for small machines to perform calculations that in the past only very large machines could do. Considerable technological innovation was needed before the microprocessor could actually become the basis of what was first known as a "mini computer" and then known as a "personal computer".[49] Intel also created one of the first microcomputers in 1973.[45][50]
+
+Intel opened its first international manufacturing facility in 1972, in Malaysia, which would host multiple Intel operations, before opening assembly facilities and semiconductor plants in Singapore and Jerusalem in the early 1980s, and manufacturing and development centres in China, India and Costa Rica in the 1990s.[51] By the early 1980s, its business was dominated by dynamic random-access memory (DRAM) chips. However, increased competition from Japanese semiconductor manufacturers had, by 1983, dramatically reduced the profitability of this market. The growing success of the IBM personal computer, based on an Intel microprocessor, was among factors that convinced Gordon Moore (CEO since 1975) to shift the company's focus to microprocessors and to change fundamental aspects of that business model. Moore's decision to sole-source Intel's 386 chip played into the company's continuing success.
+
+By the end of the 1980s, buoyed by its fortuitous position as microprocessor supplier to IBM and IBM's competitors within the rapidly growing personal computer market, Intel embarked on a 10-year period of unprecedented growth as the primary (and most profitable) hardware supplier to the PC industry, part of the winning 'Wintel' combination. Moore handed over to Andy Grove in 1987. By launching its Intel Inside marketing campaign in 1991, Intel was able to associate brand loyalty with consumer selection, so that by the end of the 1990s, its line of Pentium processors had become a household name.
+
+Challenges to dominance (2000s)
+After 2000, growth in demand for high-end microprocessors slowed. Competitors, notably AMD (Intel's largest competitor in its primary x86 architecture market), garnered significant market share, initially in low-end and mid-range processors but ultimately across the product range, and Intel's dominant position in its core market was greatly reduced,[52] mostly due to controversial NetBurst microarchitecture. In the early 2000s then-CEO, Craig Barrett attempted to diversify the company's business beyond semiconductors, but few of these activities were ultimately successful.
+
+Litigation
+Intel had also for a number of years been embroiled in litigation. US law did not initially recognize intellectual property rights related to microprocessor topology (circuit layouts), until the Semiconductor Chip Protection Act of 1984, a law sought by Intel and the Semiconductor Industry Association (SIA).[53] During the late 1980s and 1990s (after this law was passed), Intel also sued companies that tried to develop competitor chips to the 80386 CPU.[54] The lawsuits were noted to significantly burden the competition with legal bills, even if Intel lost the suits.[54] Antitrust allegations had been simmering since the early 1990s and had been the cause of one lawsuit against Intel in 1991. In 2004 and 2005, AMD brought further claims against Intel related to unfair competition.
+
+Reorganization and success with Intel Core (2005–2015)
+In 2005, CEO Paul Otellini reorganized the company to refocus its core processor and chipset business on platforms (enterprise, digital home, digital health, and mobility).
+
+On June 6, 2005, Steve Jobs, then CEO of Apple, announced that Apple would be using Intel's x86 processors for its Macintosh computers, switching from the PowerPC architecture developed by the AIM alliance.[55] This was seen as win for Intel,[56] although an analyst called the move "risky" and "foolish", as Intel's current offerings at the time were considered to be behind those of AMD and IBM.[57]
+
+In 2006, Intel unveiled its Core microarchitecture to widespread critical acclaim; the product range was perceived as an exceptional leap in processor performance that at a stroke regained much of its leadership of the field.[58][59] In 2008, Intel had another "tick" when it introduced the Penryn microarchitecture, fabricated using the 45 nm process node. Later that year, Intel released a processor with the Nehalem architecture to positive reception.[60]
+
+On June 27, 2006, the sale of Intel's XScale assets was announced. Intel agreed to sell the XScale processor business to Marvell Technology Group for an estimated $600 million and the assumption of unspecified liabilities. The move was intended to permit Intel to focus its resources on its core x86 and server businesses, and the acquisition completed on November 9, 2006.[61]
+
+In 2008, Intel spun off key assets of a solar startup business effort to form an independent company, SpectraWatt Inc. In 2011, SpectraWatt filed for bankruptcy.[62]
+
+In February 2011, Intel began to build a new microprocessor manufacturing facility in Chandler, Arizona, completed in 2013 at a cost of $5 billion.[63] The building is now the 10 nm-certified Fab 42 and is connected to the other Fabs (12, 22, 32) on Ocotillo Campus via an enclosed bridge known as the Link.[64][65][66][67] The company produces three-quarters of its products in the United States, although three-quarters of its revenue come from overseas.[68]
+
+The Alliance for Affordable Internet (A4AI) was launched in October 2013 and Intel is part of the coalition of public and private organisations that also includes Facebook, Google, and Microsoft. Led by Sir Tim Berners-Lee, the A4AI seeks to make Internet access more affordable so that access is broadened in the developing world, where only 31% of people are online. Google will help to decrease Internet access prices so that they fall below the UN Broadband Commission's worldwide target of 5% of monthly income.[69]
+
+Attempts at entering the smartphone market
+In April 2011, Intel began a pilot project with ZTE Corporation to produce smartphones using the Intel Atom processor for China's domestic market. In December 2011, Intel announced that it reorganized several of its business units into a new mobile and communications group[70] that would be responsible for the company's smartphone, tablet, and wireless efforts. Intel planned to introduce Medfield – a processor for tablets and smartphones – to the market in 2012, as an effort to compete with ARM.[71] As a 32-nanometer processor, Medfield is designed to be energy-efficient, which is one of the core features in ARM's chips.[72]
+
+At the Intel Developers Forum (IDF) 2011 in San Francisco, Intel's partnership with Google was announced. In January 2012, Google announced Android 2.3, supporting Intel's Atom microprocessor.[73][74][75] In 2013, Intel's Kirk Skaugen said that Intel's exclusive focus on Microsoft platforms was a thing of the past and that they would now support all "tier-one operating systems" such as Linux, Android, iOS, and Chrome.[76]
+
+In 2014, Intel cut thousands of employees in response to "evolving market trends",[77] and offered to subsidize manufacturers for the extra costs involved in using Intel chips in their tablets. In April 2016, Intel cancelled the SoFIA platform and the Broxton Atom SoC for smartphones,[78][79][80][81] effectively leaving the smartphone market.[82][83]
+
+Intel Custom Foundry
+Finding itself with excess fab capacity after the failure of the Ultrabook to gain market traction and with PC sales declining, in 2013 Intel reached a foundry agreement to produce chips for Altera using 14-nm process. General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future.[84] This was after poor sales of Windows 8 hardware caused a major retrenchment for most of the major semiconductor manufacturers, except for Qualcomm, which continued to see healthy purchases from its largest customer, Apple.[85]
+
+As of July 2013, five companies were using Intel's fabs via the Intel Custom Foundry division: Achronix, Tabula, Netronome, Microsemi, and Panasonic – most are field-programmable gate array (FPGA) makers, but Netronome designs network processors. Only Achronix began shipping chips made by Intel using the 22-nm Tri-Gate process.[86][87] Several other customers also exist but were not announced at the time.[88]
+
+The foundry business was closed in 2018 due to Intel's issues with its manufacturing.[89][90]
+
+Security and manufacturing challenges (2016–2021)
+Intel continued its tick-tock model of a microarchitecture change followed by a die shrink until the 6th generation Core family based on the Skylake microarchitecture. This model was deprecated in 2016, with the release of the seventh generation Core family (codenamed Kaby Lake), ushering in the process–architecture–optimization model. As Intel struggled to shrink their process node from 14 nm to 10 nm, processor development slowed down and the company continued to use the Skylake microarchitecture until 2020, albeit with optimizations.[20]
+
+10 nm process node issues
+While Intel originally planned to introduce 10 nm products in 2016, it later became apparent that there were manufacturing issues with the node.[91] The first microprocessor under that node, Cannon Lake (marketed as 8th generation Core), was released in small quantities in 2018.[92][93] The company first delayed the mass production of their 10 nm products to 2017.[94][95] They later delayed mass production to 2018,[96] and then to 2019. Despite rumors of the process being cancelled,[97] Intel finally introduced mass-produced 10 nm 10th generation Intel Core mobile processors (codenamed "Ice Lake") in September 2019.[98]
+
+Intel later acknowledged that their strategy to shrink to 10 nm was too aggressive.[20][99] While other foundries used up to four steps in 10 nm or 7 nm processes, the company's 10 nm process required up to five or six multi-pattern steps.[100] In addition, Intel's 10 nm process is denser than its counterpart processes from other foundries.[101][102] Since Intel's microarchitecture and process node development were coupled, processor development stagnated.[20]
+
+Security flaws
+In early January 2018, it was reported that all Intel processors made since 1995,[103] excluding Intel Itanium and pre-2013 Intel Atom processors, have been subject to two security flaws dubbed Meltdown and Spectre.[104][105] It is believed that "hundreds of millions" of systems could be affected by these flaws.[106][107] More security flaws were disclosed on May 3, 2018,[108] on August 14, 2018, on January 18, 2019, and on March 5, 2020.[109][110][111][112]
+
+On March 15, 2018, Intel reported that it will redesign its CPUs to protect against the Spectre security vulnerability, will release the redesigned processors later in 2018.[113][114] Both Meltdown and Spectre patches have been reported to slow down performance, especially on older computers.[115][116][117][118]
+
+Renewed competition and other developments (2018–present)
+Due to Intel's issues with its 10 nm process node and the company's slow processor development,[20] the company now found itself in a market with intense competition.[119] The company's main competitor, AMD, introduced the Zen microarchitecture and a new chiplet based design to critical acclaim. Since its introduction, AMD, once unable to compete with Intel in the high-end CPU market, has undergone a resurgence,[120] and Intel's dominance and market share have considerably decreased.[121] In addition, Apple is switching from the x86 architecture and Intel processors to their own Apple silicon for their Macintosh computers from 2020 onwards. The transition is expected to affect Intel minimally; however, it might prompt other PC manufacturers to reevaluate their reliance on Intel and the x86 architecture.[122][123]
+
+'IDM 2.0' strategy
+On March 23, 2021, CEO Pat Gelsinger laid out new plans for the company.[124] These include a new strategy, called IDM 2.0, that includes investments in manufacturing facilities, use of both internal and external foundries, and a new foundry business called Intel Foundry Services (IFS), a standalone business unit.[125][126] Unlike Intel Custom Foundry, IFS will offer a combination of packaging and process technology, and Intel's IP portfolio including x86 cores. Other plans for the company include a partnership with IBM and a new event for developers and engineers, called "Intel ON".[90] Gelsinger also confirmed that Intel's 7 nm process is on track, and that the first products with 7 nm (It is now called Intel 4) are Ponte Vecchio and Meteor Lake.[90]
+
+In January 2022, Intel reportedly selected New Albany, Ohio, near Columbus, Ohio, as the site for a major new manufacturing facility.[127] The facility will cost at least $20 billion.[128] The company expects the facility to begin producing chips by 2025.[129]
+
+Product and market history
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Intel" – news · newspapers · books · scholar · JSTOR (January 2018) (Learn how and when to remove this template message)
+SRAMs, DRAMs, and the microprocessor
+Intel's first products were shift register memory and random-access memory integrated circuits, and Intel grew to be a leader in the fiercely competitive DRAM, SRAM, and ROM markets throughout the 1970s. Concurrently, Intel engineers Marcian Hoff, Federico Faggin, Stanley Mazor and Masatoshi Shima invented Intel's first microprocessor. Originally developed for the Japanese company Busicom to replace a number of ASICs in a calculator already produced by Busicom, the Intel 4004 was introduced to the mass market on November 15, 1971, though the microprocessor did not become the core of Intel's business until the mid-1980s. (Note: Intel is usually given credit with Texas Instruments for the almost-simultaneous invention of the microprocessor)
+
+In 1983, at the dawn of the personal computer era, Intel's profits came under increased pressure from Japanese memory-chip manufacturers, and then-president Andy Grove focused the company on microprocessors. Grove described this transition in the book Only the Paranoid Survive. A key element of his plan was the notion, then considered radical, of becoming the single source for successors to the popular 8086 microprocessor.
+
+Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Grove began producing processors in three geographically distinct factories,[which?] and ceased licensing the chip designs to competitors such as AMD.[130] When the PC industry boomed in the late 1980s and 1990s, Intel was one of the primary beneficiaries.
+
+Early x86 processors and the IBM PC
+
+The die from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip
+Despite the ultimate importance of the microprocessor, the 4004 and its successors the 8008 and the 8080 were never major revenue contributors at Intel. As the next processor, the 8086 (and its variant the 8088) was completed in 1978, Intel embarked on a major marketing and sales campaign for that chip nicknamed "Operation Crush", and intended to win as many customers for the processor as possible. One design win was the newly created IBM PC division, though the importance of this was not fully realized at the time.
+
+IBM introduced its personal computer in 1981, and it was rapidly successful. In 1982, Intel created the 80286 microprocessor, which, two years later, was used in the IBM PC/AT. Compaq, the first IBM PC "clone" manufacturer, produced a desktop system based on the faster 80286 processor in 1985 and in 1986 quickly followed with the first 80386-based system, beating IBM and establishing a competitive market for PC-compatible systems and setting up Intel as a key component supplier.
+
+In 1975, the company had started a project to develop a highly advanced 32-bit microprocessor, finally released in 1981 as the Intel iAPX 432. The project was too ambitious and the processor was never able to meet its performance objectives, and it failed in the marketplace. Intel extended the x86 architecture to 32 bits instead.[131][132]
+
+386 microprocessor
+During this period Andrew Grove dramatically redirected the company, closing much of its DRAM business and directing resources to the microprocessor business. Of perhaps greater importance was his decision to "single-source" the 386 microprocessor. Prior to this, microprocessor manufacturing was in its infancy, and manufacturing problems frequently reduced or stopped production, interrupting supplies to customers. To mitigate this risk, these customers typically insisted that multiple manufacturers produce chips they could use to ensure a consistent supply. The 8080 and 8086-series microprocessors were produced by several companies, notably AMD, with which Intel had a technology-sharing contract.
+
+Grove made the decision not to license the 386 design to other manufacturers, instead, producing it in three geographically distinct factories: Santa Clara, California; Hillsboro, Oregon; and Chandler, a suburb of Phoenix, Arizona. He convinced customers that this would ensure consistent delivery. In doing this, Intel breached its contract with AMD, which sued and was paid millions of dollars in damages but could not manufacture new Intel CPU designs any longer. (Instead, AMD started to develop and manufacture its own competing x86 designs.)
+
+As the success of Compaq's Deskpro 386 established the 386 as the dominant CPU choice, Intel achieved a position of near-exclusive dominance as its supplier. Profits from this funded rapid development of both higher-performance chip designs and higher-performance manufacturing capabilities, propelling Intel to a position of unquestioned leadership by the early 1990s.
+
+486, Pentium, and Itanium
+Intel introduced the 486 microprocessor in 1989, and in 1990 established a second design team, designing the processors code-named "P5" and "P6" in parallel and committing to a major new processor every two years, versus the four or more years such designs had previously taken. Engineers Vinod Dham and Rajeev Chandrasekhar (Member of Fart, India) were key figures on the core team that invented the 486 chip and later, Intel's signature Pentium chip. The P5 project was earlier known as "Operation Bicycle," referring to the cycles of the processor through two parallel execution pipelines. The P5 was introduced in 1993 as the Intel Pentium, substituting a registered trademark name for the former part number (numbers, such as 486, cannot be legally registered as trademarks in the United States). The P6 followed in 1995 as the Pentium Pro and improved into the Pentium II in 1997. New architectures were developed alternately in Santa Clara, California and Hillsboro, Oregon.
+
+The Santa Clara design team embarked in 1993 on a successor to the x86 architecture, codenamed "P7". The first attempt was dropped a year later but quickly revived in a cooperative program with Hewlett-Packard engineers, though Intel soon took over primary design responsibility. The resulting implementation of the IA-64 64-bit architecture was the Itanium, finally introduced in June 2001. The Itanium's performance running legacy x86 code did not meet expectations, and it failed to compete effectively with x86-64, which was AMD's 64-bit extension of the 32-bit x86 architecture (Intel uses the name Intel 64, previously EM64T). In 2017, Intel announced that the Itanium 9700 series (Kittson) would be the last Itanium chips produced.[133][134]
+
+The Hillsboro team designed the Willamette processors (initially code-named P68), which were marketed as the Pentium 4.
+
+During this period, Intel undertook two major supporting advertising campaigns. The first campaign, the 1991 "Intel Inside" marketing and branding campaign, is widely known and has become synonymous with Intel itself. The idea of "ingredient branding" was new at the time, with only NutraSweet and a few others making attempts to do so.[135] This campaign established Intel, which had been a component supplier little-known outside the PC industry, as a household name.
+
+The second campaign, Intel's Systems Group, which began in the early 1990s, showcased manufacturing of PC motherboards, the main board component of a personal computer, and the one into which the processor (CPU) and memory (RAM) chips are plugged.[136] The Systems Group campaign was lesser known than the Intel Inside campaign.
+
+Shortly after, Intel began manufacturing fully configured "white box" systems for the dozens of PC clone companies that rapidly sprang up.[citation needed] At its peak in the mid-1990s, Intel manufactured over 15% of all PCs, making it the third-largest supplier at the time.[citation needed]
+
+During the 1990s, Intel Architecture Labs (IAL) was responsible for many of the hardware innovations for the PC, including the PCI Bus, the PCI Express (PCIe) bus, and Universal Serial Bus (USB). IAL's software efforts met with a more mixed fate; its video and graphics software was important in the development of software digital video,[citation needed] but later its efforts were largely overshadowed by competition from Microsoft. The competition between Intel and Microsoft was revealed in testimony by then IAL Vice-president Steven McGeady at the Microsoft antitrust trial (United States v. Microsoft Corp.).
+
+Pentium flaw
+Main article: Pentium FDIV bug
+In June 1994, Intel engineers discovered a flaw in the floating-point math subsection of the P5 Pentium microprocessor. Under certain data-dependent conditions, the low-order bits of the result of a floating-point division would be incorrect. The error could compound in subsequent calculations. Intel corrected the error in a future chip revision, and under public pressure it issued a total recall and replaced the defective Pentium CPUs (which were limited to some 60, 66, 75, 90, and 100 MHz models[137]) on customer request.
+
+The bug was discovered independently in October 1994 by Thomas Nicely, Professor of Mathematics at Lynchburg College. He contacted Intel but received no response. On October 30, he posted a message about his finding on the Internet.[138] Word of the bug spread quickly and reached the industry press. The bug was easy to replicate; a user could enter specific numbers into the calculator on the operating system. Consequently, many users did not accept Intel's statements that the error was minor and "not even an erratum." During Thanksgiving, in 1994, The New York Times ran a piece by journalist John Markoff spotlighting the error. Intel changed its position and offered to replace every chip, quickly putting in place a large end-user support organization. This resulted in a $475 million charge against Intel's 1994 revenue.[139] Dr. Nicely later learned that Intel had discovered the FDIV bug in its own testing a few months before him (but had decided not to inform customers).[140]
+
+The "Pentium flaw" incident, Intel's response to it, and the surrounding media coverage propelled Intel from being a technology supplier generally unknown to most computer users to a household name. Dovetailing with an uptick in the "Intel Inside" campaign, the episode is considered to have been a positive event for Intel, changing some of its business practices to be more end-user focused and generating substantial public awareness, while avoiding a lasting negative impression.

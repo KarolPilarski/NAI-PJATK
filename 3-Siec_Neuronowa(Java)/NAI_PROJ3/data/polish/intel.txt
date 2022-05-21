@@ -1,0 +1,20 @@
+Intel Corporation – najwiêkszy na œwiecie producent uk³adów scalonych[2] oraz twórca mikroprocesorów z rodziny x86, które znajduj¹ siê w wiêkszoœci komputerów osobistych.
+
+
+Spis treœci
+1	Historia
+2	Zobacz te¿
+3	Przypisy
+4	Linki zewnêtrzne
+Historia
+Przedsiêbiorstwo Intel za³o¿yli 18 lipca 1968 Gordon E. Moore oraz Robert Noyce, a nazwa pochodzi od wyra¿enia integrated electronics. Wkrótce do³¹czy³ do nich Andrew Grove, póŸniejszy wieloletni prezes przedsiêbiorstwa[3]. Siedziba g³ówna znajduje siê w Santa Clara w amerykañskim stanie Kalifornia. Oprócz mikroprocesorów wytwarza miêdzy innymi p³yty g³ówne, chipsety do p³yt g³ównych, zintegrowane uk³ady graficzne, pamiêci flash, mikrokontrolery, procesory do systemów wbudowanych, sprzêt sieciowy (np. karty sieciowe, chipsety WiFi i WiMAX), systemy zarz¹dzania pamiêci¹ masow¹ (SAN, NAS, DAS)[4]. O sile przedsiêbiorstwa stanowi¹ zdolnoœæ projektowania zaawansowanych procesorów, których kolejne generacje zwiêkszaj¹ swoj¹ moc obliczeniow¹ zgodnie z prawem Moore’a oraz bardzo wysoki poziom zdolnoœci produkcyjnych. Pocz¹tkowo znana wœród in¿ynierów i technologów dziêki przeprowadzonej w latach 90. XX wieku udanej kampanii marketingowej „Intel Inside”, firma przedsiêbiorstwa oraz marka procesorów Pentium sta³y siê powszechnie znane.
+
+We wczesnym okresie dzia³alnoœci Intel produkowa³ przede wszystkim pamiêci RAM. Pierwszym procesorem by³ zaprezentowany w 1971 i4004. 10 lat póŸniej procesor Intel 8088 zosta³ wykorzystany przez przedsiêbiorstwo IBM do budowy komputera IBM PC. W 1985 Intel zaprzesta³ produkcji pamiêci RAM ze wzglêdu na bardzo siln¹ konkurencjê i zwi¹zany z tym stale zmniejszaj¹cy siê udzia³ w tym rynku. W tym czasie procesory z rodziny x86 by³y ju¿ najwa¿niejszym produktem przedsiêbiorstwa. W latach 90. Intel mocno inwestowa³ w projektowanie nowych mikroprocesorów i promowa³ rozwój rynku komputerów osobistych. Dziêki temu sta³ siê dominuj¹cym dostawc¹ mikroprocesorów dla tych komputerów. Dziœ jest jednym z najwiêkszych na œwiecie przedsiêbiorstw dzia³aj¹cych na rynku informatycznym. Pod koniec 2006 roku zatrudnia³ 94 tys. pracowników, a jego roczny przychód za ten rok wyniós³ 31,5 miliarda dolarów. W 2005, wraz ze zmian¹ strategii marketingowej, Intel zmieni³ logo na nowe. Poprzednie logo by³o zaprojektowane w 1968 przez samych za³o¿ycieli Intela.
+
+
+Procesor serii Pentium wyprodukowany przez Intel
+Obecnie rodziny jej procesorów to: Pentium – wersje M (do laptopów), wersje podstawowe 2, 3, 4, wersja D – dwurdzeniowa, Celeron – wersje M (do laptopów) i D, Xeon i Itanium – procesory do serwerów, Core oraz Core 2 – procesory jedno-, dwu- i czterordzeniowe. Najnowsze procesory Intel: Core i9 cztero-, szeœcio-, dwunasto-, i osiemnastordzeniowe; Core i7 oœmio-, szeœcio- i czterordzeniowe oraz szeœcio-, cztero- i dwurdzeniowe Core i5 i dwu- i czterordzeniowe Core i3, a tak¿e wersje Mobile, przeznaczone do laptopów. Konkurencj¹ s¹ produkty przedsiêbiorstw AMD, VIA, IBM i Motorola.
+
+Od sezonu 2014/2015 do sezonu 2016/2017 firma Intel by³a oficjalnym sponsorem kataloñskiego klubu pi³karskiego FC Barcelona. Wartoœæ kontraktu by³a ustalona 5 milionów euro za ka¿dy rok kontraktu[5].
+
+Wed³ug badania waszyngtoñskiej organizacji Good Jobs First koncern Intel otrzyma³ ok. 3,9 mld dolarów dotacji z programów federalnych i stanowych w okresie 2010–2013 – jest to trzeci wynik wœród najbardziej dotowanych przedsiêbiorstw w Stanach Zjednoczonych[6].

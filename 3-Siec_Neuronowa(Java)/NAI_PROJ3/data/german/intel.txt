@@ -1,0 +1,92 @@
+Intel Corporation (von englisch Integrated electronics, deutsch „integrierte Elektronik“) ist ein US-amerikanischer Halbleiterhersteller mit Hauptsitz im kalifornischen Santa Clara (Silicon Valley). Er wurde 1968 von Mitarbeitern des Unternehmens Fairchild Semiconductor gegründet. Die Europazentrale befindet sich seit 1974 in München.[3] Intel ist vor allem für PC-Mikroprozessoren bekannt, bei denen das Unternehmen weltweit einen Marktanteil von ungefähr 80 % hält. Außerdem produziert Intel diverse weitere Arten von Mikrochips für Computer, zum Beispiel Chipsätze für Mainboards („Intel ICH“, „Intel GMA“), WLAN- und Netzwerkkarten sowie Embedded-CPUs und Flash-Speicher.
+
+Mit einem Umsatz von 64,0 Milliarden US-Dollar – bei einem Gewinn von 11,1 Mrd. US-Dollar – stand Intel laut Forbes Global 2000 auf Platz 594 der weltgrößten Unternehmen (Stand: Geschäftsjahr 2017). Das Unternehmen kam im Juni 2018 auf eine Marktkapitalisierung von 254,8 Mrd. US-Dollar.[4]
+
+
+Inhaltsverzeichnis
+1	Produkte und geschichtliche Entwicklung
+1.1	Die Gründung und Produktion von Speicherchips
+1.2	EPROM und Flash-Speicher
+1.3	Die ersten Mikroprozessoren
+1.4	Die Mikrocontroller
+1.5	x86-Prozessoren
+1.6	Chipsätze und Grafikchips
+1.7	Auslesbare Seriennummer im Pentium 3
+1.8	Intel Management Engine seit 2008
+1.9	Apps für Smartphones und Tablet-PCs
+1.10	Chips für Smartphones
+1.11	FPGAs
+1.12	Deutsche Expansion
+2	Tochterunternehmen
+3	Geschäftszahlen
+4	Konkurrenten
+5	Marketing
+5.1	Sponsoring
+5.2	Wettbewerbsverstöße
+6	Patentabkommen
+7	Fortbildungsmaßnahmen
+8	Leitende Manager
+9	Siehe auch
+10	Weblinks
+11	Einzelnachweise
+Produkte und geschichtliche Entwicklung
+Die Gründung und Produktion von Speicherchips
+Intel wurde am 18. Juli 1968 von Gordon E. Moore und Robert Noyce als Moore-Noyce Electronics in Mountain View, Kalifornien gegründet, nachdem sie Fairchild Semiconductor verlassen hatten. Bald darauf wurde auch Andy Grove eingestellt, der das Unternehmen in den 1980ern und 1990ern leitete. Das Ziel der Firma war es, Arbeitsspeicher für Computer auf Halbleiterbasis zu entwickeln und auf den Markt zu bringen. Die Hochintegration (Very Large Scale Integration, VLSI) von Transistoren auf Silizium steckte im Jahr 1968 noch in den Kinderschuhen und Intel entwickelte für die Herstellung von Halbleiterschaltungen den PMOS-Prozess, das heißt, einen Prozess für die Herstellung von elektrischen Schaltungen mit p-Kanal-Metall-Oxid-Halbleiter-Feldeffekttransistoren unter Nutzung einer Gate-Elektrode aus Polysilizium (daher auch Silizium-Gate-Technik genannt).
+
+Das erste Produkt der Firma war aber ein bipolares 64-bit-Schottky-RAM. Dieses wurde im April 1969 unter der Produktbezeichnung „Intel 3101“ vorgestellt. Im Juli 1969 wurde mit dem Intel 1101 der erste SRAM-Chip, der mit dem PMOS-Prozess hergestellt wurde, auf den Markt gebracht. Erst im Oktober 1970[5] – nach der Hälfte der ursprünglich veranschlagten Zeit – gelang der erste große Sprung nach vorn: Intel stellte unter der Produktbezeichnung „1103“ den ersten DRAM-Speicherbaustein vor, der auf dem PMOS-Prozess basierte und die Vorzüge der Hochintegration zu bieten hatte. Während Schaltungen in Bipolartechnik nur noch bei Hochgeschwindigkeitsbauteilen den Vorzug genossen, entwickelte sich fortan die MOS-Technologie (von PMOS über NMOS und HMOS zu CMOS) zur bevorzugten Halbleiter-Fertigungstechnik.
+
+Gordon Moore hatte 1965 einen Trend erkannt, der später als Mooresches Gesetz nicht nur die Geschichte von Intel, sondern die Entwicklung der gesamten Halbleitertechnologie maßgeblich geprägt hat.
+
+Bis Mitte der 1980er-Jahre war DRAM das Hauptgeschäft von Intel. Die wachsende Konkurrenz durch japanische Halbleiterhersteller und der damit verbundene Umsatzrückgang führten aber 1983 zu einer Umorientierung des Geschäftsmodells. Der Erfolg des Personal Computers von IBM veranlasste Intel, sich fortan auf Mikroprozessoren zu konzentrieren und die DRAM-Produktion aufzugeben.
+
+EPROM und Flash-Speicher
+
+Intel EPROM 1702
+Auf der Solid State Circuits Conference 1971 stellte Dov Frohman das erste EPROM (löschbarer (einmal-)beschreibbarer Speicherchip) der Welt vor. Das Intel-EPROM 1702 war ein großer Erfolg und wurde bis Mitte der 1980er Jahre in hohen Stückzahlen verlangt, nicht zuletzt weil Intel viele Jahre der einzige Hersteller war, der EPROMs in hoher Stückzahl produzieren konnte. Bis 2008 war Intel zusammen mit Spansion einer der größten Hersteller von Flash-Speichern. Ende März 2008 gliederte Intel den größten Teil der Flash-Produktion in ein Joint-Venture-Unternehmen mit STMicroelectronics aus. Das neue Unternehmen bekam den Namen Numonyx. Intel stellt darüber hinaus auch die 520er SSD-Reihe vor, eine schnelle Solid State Disk, der Nachfolger des Hard Disk Drives.[6]
+
+Die ersten Mikroprozessoren
+
+Intel C8080A, Produktionsjahr 1978
+Als erster Mikroprozessor der Welt (zumindest nach Intel-Lesart) wurde am 15. November 1971 der 4-Bit-Prozessor Intel 4004 vorgestellt. Diesen soll Intel auf eigene Verantwortung entwickelt haben, als das japanische Unternehmen Nippon Calculating Machine Corporation eigentlich einen spezialisierten Tischrechnerchip beauftragt hatte. Der 1974 eingeführte Intel 8080 wird allgemein als erster vollwertiger Mikroprozessor angesehen. Es handelt sich dabei um einen 8-Bit-Mikroprozessor, der als Nachfolger des Intel 8008 (Markteinführung 1972) entwickelt wurde. Diese ersten Mikroprozessoren legten den Grundstein für viele weitere Produkte auf ähnlicher Basis und verhalfen Intel zu seiner starken Marktmacht. Zu dieser Baureihe gehören neben dem seltener eingesetzten Nachfolgetyp Intel 8085 eine ganze Palette von passenden I/O-Bausteinen, z. B. der Intel 8255 für parallele Ein- und Ausgabe.
+
+Die Mikrocontroller
+Basierend auf den Entwicklungen der Mikroprozessoren der 80er Reihe stellte Intel 1977 den Mikrocontroller 8048 vor, der jedoch bereits 1980 durch den Mikrocontroller 8051 ersetzt wurde. Durch geschickte Lizenzpolitik (u. a. an Siemens und Philips) wurde der Mikrocontroller 8051 Stammvater einer der am weitesten verbreiteten Familien von Mikrocontrollern.
+
+x86-Prozessoren
+Die bekannteste Baureihe von Intel sind die x86 Mikroprozessoren, deren erstes Modell im Jahre 1978 mit dem 8086/8088 erschien und im weit verbreiteten IBM-PC verwendet wurde. Inzwischen produziert Intel Chips für Desktop-Computer (Pentium-Dual-Core-Serie, Celeron-Serie, Intel-Core-2-Serie, Intel-Core-i-Serie), für Notebooks (Pentium-Dual-Core, Core Duo, Core 2 Duo und inzwischen auch i3-, i5-, i7- und i9-Modelle) und für Workstations sowie Server (Xeon-Serie). Der große Serverprozessor Itanium 2 kann seine hohe Rechenleistung nur mit seinem nativen Befehlssatz IA-64 ausspielen. x86-Maschinencode (IA-32) führt er über eine integrierte Hardware-Emulation nur langsam aus.
+
+Der große Erfolg der x86er Reihe führte zu einer marktbeherrschenden Stellung in der PC-Industrie; zeitweise kamen 85 % der PC-CPUs von Intel. So kam es immer wieder zu Untersuchungen der amerikanischen Wettbewerbsbehörde FTC und Klagen von Konkurrenten. Der heute einzige größere Konkurrent auf diesem Sektor ist AMD; ironischerweise war Robert Noyce mit seinem Gründungskapital auch für die Gründung dieser Firma mitentscheidend. Seit 1976 hat AMD ein Patentaustauschabkommen mit Intel, so dass alle technischen Innovationen wechselseitig genutzt werden können. In den letzten Jahren hat hier mit dem Stromverbrauch und der Abwärme ein weiteres Kriterium Bedeutung erlangt.
+
+Chipsätze und Grafikchips
+Intel ist mit großem Abstand Weltmarktführer bei Grafikchips. So benutzen die meisten Bürorechner und Notebooks eine Intel-Plattform mit integrierter Grafik (IGPs). Intel hatte zwar mit dem i740 Ende der 1990er auch einen Grafikchip für Steckkarten im Angebot, stellte diese Aktivitäten aber danach wieder ein. Später arbeitete Intel wieder an einer diskreten GPU unter dem Codenamen Larrabee,[7] deren Entwicklung im Dezember 2009 jedoch eingestellt wurde. Im August 2021 kündigte Intel offiziell ihre neue Marke für Grafikkarten vor: Intel „Arc“. Die erste Generation wird den Codenamen „Alchemist“ tragen[8] und soll Leistungswerte bis zu einer Nvidia RTX 3070 erreichen. Auch die folgenden Codenamen Battlemage, Celestial und Druid wurden bekanntgegeben.[8]
+
+Auch für das Internet der Dinge will Intel Plattformen anbieten. Ein erster Schritt in die Richtung erfolgte mit der Vorstellung des Projekts Intel Edison, welches jedoch im Dezember 2017 wieder eingestellt wurde.
+
+Auslesbare Seriennummer im Pentium 3
+1999 geriet Intel in öffentliche Kritik, als die gerade vorgestellten ersten Pentium-III-Prozessoren (mit 450 und 500 MHz) mit einer weltweit eindeutigen Nummer („Prozessor-ID“) versehen waren, die per Software ausgelesen werden konnte. Kritiker befürchteten, diese eindeutige Seriennummer könne als Grundlage für das Ausspionieren und die Überwachung von Computeranwendern dienen. Aufgrund des öffentlichen Drucks hat Intel die Prozessor-ID standardmäßig abgeschaltet und in späteren Prozessor-Generationen ganz auf sie verzichtet.
+
+Intel Management Engine seit 2008
+Seit 2008 sind alle Chipsets für Intel-Prozessoren mit der Intel Management Engine (ME) ausgestattet.[9] Dabei handelt es sich um ein autonomes Subsystem auf Minix-Basis, das Administratoren unter Umgehung des Betriebssystems vollen Zugriff auf den Computer gestattet, selbst wenn dieser ausgeschaltet ist.[10] Es ist in allen Intel-Chipsets seit 2008 bis heute vorhanden und aktiv, selbst wenn diese nicht mit Intel Active Management Technology (AMT) ausgerüstet sind. Die Intel Management Engine (ME) ist vom Nutzer nicht deaktivierbar und enthält eine Vielzahl nachgewiesener Sicherheitsmängel.[11][12][13][14][15][16][17][18][19][20] Der genaue Funktionsumfang wird von Intel geheim gehalten, der Code ist obfuscated, die zur Entschlüsselung des Inhalts erforderlichen Informationen stecken unauslesbar direkt in der Hardware.[21] Nur an staatliche Organe und zum militärischen Gebrauch werden von Intel Firmware-Versionen bereitgestellt, bei denen weite Teile der Intel Management Engine deaktiviert sind.[22]
+
+Apps für Smartphones und Tablet-PCs
+Mit seinem AppUp Developer Program (IADP) versucht Intel, auch auf dem hart umkämpften Smartphone-Markt Fuß zu fassen. Laut Björn Taubert, Marketing Manager bei Intel, bietet das IADP „erfahrenen wie ambitionierten App-Entwicklern einen zentralen Kanal, um erstentwickelte oder portierte Windows- und HTML5-Applikationen für eine Vielzahl von Endgeräten bei bis zu 70 Prozent Umsatzbeteiligung zu vertreiben“.[23]
+
+Chips für Smartphones
+Anfang Januar 2012 stellte Intel auf der Messe CES in Las Vegas das erste Mal ein Smartphone vor, das mit einem eigenen Chipsatz ausgestattet ist. Im April gleichen Jahres erschien in Indien mit dem Modell Lava Xolo X900 das erste Intel-Smartphone.[24] Ende Mai folgte das unter dem Dach von Lenovo produzierte LePhone K800 in China. Mit dem Orange San Diego wurde das insgesamt weltweit dritte Intel-Smartphone am 6. Juni in Großbritannien auf den Markt gebracht.[25]
+
+FPGAs
+Seit der Übernahme der Firma Altera tritt Intel auch als Hersteller von FPGAs auf. Die Produkte werden nun unter der Bezeichnung Intel-Altera weitervertrieben. Umgekehrt nutzt Intel die Technologie der programmierbaren Digitaltechnik für die Weiterentwicklung der eigenen Prozessoren. So ist es z. B. das Ziel, im Nachhinein technische Anpassungen an bereits ausgelieferten CPUs durch Software-Update vornehmen zu können.[26][27][28]
+
+Deutsche Expansion
+Am 15. März 2022 verkündete Intel, 17 Milliarden Euro für eine aus zwei Werken bestehende neue Chip-Fabrik[29] in Magdeburg zu investieren. Der Standort in Sachsen-Anhalt konnte sich bei der Ausschreibung gegen Dresden durchsetzen. Die Bauarbeiten sollen spätestens im Frühjahr 2023 beginnen, ab 2027 soll die Produktion anlaufen. Die Bundesregierung erwartet durch die Ansiedlung des Werks die Schaffung von rund 3000 Arbeitsplätzen.[30] Versorgt werden sollen die Werke wie alle europäischen Standorte von Intel mit 100 % Strom aus erneuerbaren Energien.[31]
+
+Tochterunternehmen
+1991 wurde Intel Capital für die Verwaltung von Corporate Venture Capital gegründet. 2003 kaufte Intel den High-Performance-Computing-Bereich der Pallas GmbH, der aus der SUPRENUM ausgegründet wurde, um die eigene Clustering-Sparte zu stärken.[32] Im Jahr 2007 übernahm Intel das irische Unternehmen Havok, das vor allem wegen seiner Physik-Engine bekannt ist.[33] Im Juli 2009 kaufte Intel das Softwareunternehmen Wind River auf.[34] Mitte August 2010 kündigte Intel überraschend an, McAfee[35] (einen US-Produzenten von Antivirus- und Computersicherheitssoftware) für 7,68 Milliarden US-Dollar[36] zu übernehmen.[37]
+
+Am 31. Januar 2011 wurde der Verkauf des bisherigen Infineon Bereichs Wireless Solutions für 1,4 Milliarden US-Dollar an Intel abgeschlossen. Das dabei neu entstandene Unternehmen hat weltweit rund 3.500 Mitarbeiter und firmiert jetzt als Intel Deutschland GmbH.[38]
+
+Anfang September 2016 kündigte Intel an, 51 % der Anteile seiner Sparte IT-Sicherheit (McAfee), an den Finanzinvestor TPG für 3,1 Milliarden US-Dollar zu verkaufen.[39]
+
+Intel gab im März 2017 die Übernahme von Mobileye, einem auf Fahrerassistenzsysteme spezialisiertem Unternehmen, bekannt. Der Chiphersteller zahlte damals 15,3 Milliarden US-Dollar für den israelischen Automobilzulieferer.[40]
+
+Gut zwei Jahre später erweitert Intel das Geschäftsfeld von Mobileye durch die Akquisition von Moovit. Das Start-up sammelt Daten zu Verkehrsströmen und bietet über seine App eine Routenoptimierung in urbanen Lebensräumen an. Intel zahlt für Moovit rund 900 Millionen US-Dollar.

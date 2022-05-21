@@ -1,0 +1,71 @@
+Smolensk-ulykken var en flyulykke som inntraff ved den militare flybasen i Smolensk i Russland den 10. april 2010. Ulykken skjedde med en Tupolev Tu-154M fra det polske luftforsvaret (Si³y Powietrzne). Ifolge offisielle kilder var det totalt 96 personer ombord. Alle omkom, blant dem den polske presidenten Lech Kaczyñski og landets harsjef, sentralbanksjef og flere andre polske politikere. Hendelsen har blitt omtalt som den storste tragedien i polsk historie etter andre verdenskrig.
+
+Den polske presidenten Lech Kaczyñski med folge skulle til Russland for a delta pa en markering for Katyn-massakren da sovjetiske militare massehenrettet polske offiserer under andre verdenskrig, og flyet hadde dermed ogsa med etterlatte etter massakren.[1] Etter Lech Kaczyñskis dod overtok parlamentspresident Bronis³aw Komorowski posten som Polens midlertidige president, og erklarte samtidig landesorg fra 10. til 18. april.[2]
+
+Flyhavarikommisjonen bestaende av de tidligere russiske stater, The Interstate Aviation Committee (IAC[3])/(russiske MAK) publiserte/avga den 12. januar 2011 rapport vedrorende luftfartsulykken ved Smolensk "Severny" flyplassen som fant sted den 10. april 2010. Den endelige rapporten er skrevet pa russisk og oversatt til engelsk. Oversettelser er fritt tilgjengelige fra flyhavarikommisjonens hjemmeside.[4] Den 27. juli 2011 overrakk den polske etterforsknings komiteen for nasjonale flyulykker sin rapport («Miller-rapporten») vedrorende luftfartsulykken til den polske statsministeren Donald Tusk. To dager senere ble rapporten publisert med bade en russisk og engelsk oversettelse. Den polske rapporten er fritt tilgjengelig pa etterforskingskomiteens hjemmeside.[5] Konklusjonene nedenfor tar utgangspunkt i bade den engelske oversettelsen av den endelige rapporten fra IAC samt den polske rapporten.
+
+
+Innhold
+1	Flyhavarikommisjonens MAK/IAC konklusjon
+1.1	Medvirkende arsaker
+1.2	Systematiske arsaker
+2	Den polske etterforskningskomiteens konklusjon
+2.1	Omstendigheter som bidro til flyulykken
+2.2	Andre bidrag til flyulykken
+3	De omkomne
+3.1	Personer fra regjeringen og statsapparatet
+3.2	Militare ledere
+3.3	Representanter for kirke og trossamfunn
+3.4	Medlemmer av Sejm
+3.5	Medlemmer av det polske senatet
+3.6	Kabinbesetning
+3.7	Andre
+4	Referanser
+5	Eksterne lenker
+Flyhavarikommisjonens MAK/IAC konklusjon
+Den direkte arsaken til luftfartsulykken var at besetningens unnlot a fly til alternativ flyplass til tross for at de flere ganger var informert om de radende varforhold ved Smolensk "Severny" flyplassen. Varforholdene var betydelig darligere enn flyplassens fastsatte minstekrav. Det ble foretatt nedstigning uten visuell kontakt med bakkereferanser til en hoyde lavere enn gitt minstehoyde for a vende (100m) slik at det ble mulig a foreta en visuell landing. Selb etter gjentatte TAWS-varsler (terrain awareness and warning system) ble det ikke reagert. Samlet sett resulterte handlingene i en krasjlanding (CFIT) slik at flyet ble odelagt og passasjerer og mannskap ble drept. Eksperter og luftfartspsykologer konkluderte med at overstkommanderende for de polske luftstyrker i cockpit ovde et psykologisk press pa besetningsmedlemmene og pavirket beslutningen av beslutningen om a fortsette landingen under forhold med stor risiko ”for enhver pris”.
+
+Medvirkende arsaker
+Tu-154M flybesetningens lengre diskusjoner med protokollsjefen og flybesetningen ved den polske Jak-40-flyet vedrorende informasjonen om varforholdene som var darligere enn fastsatte minstekrav og umulige (ifolge Tu-154M flymannskapets mening) a lande i okte det psykologiske presset pa flybesetningen og medforte at fartoysjefen erfarte en behovskonflikt. Pa den ene siden innsa han det utrygge i a forsoke a lande ved gitte forhold og pa den andre siden erfarte han et sterkt motiv for a lande ved Smolensk "Severny" flyplassen. Fartoysjefen forventet negativ reaksjon fra hovedpassasjeren ved a ta en beslutning om a fortsette til reserveflyplass.
+
+Mangelfulle standard operasjons prosedyrer SOP (Standard Operation Procedures) samt utilfredsstillende Crew Resource Management CRM).
+
+Fartoyssjefens betydelig avbrudd/pause i flygninger under vanskelige varforhold samt begrenset erfaring i gjennomforing av ikke presisjons innflygning (non-precission approche).
+
+Navigatorens for tidlige overgang til hoydevarsling ved hjelp av radiobasert hoydemaling uten a ta hensyn til det ujevne terrenget.
+
+Gjennomforing av flyvningen med aktivert autopilot og autothrottle ned til en hoyde lavere enn minimumshoyde noe som ikke er i trad med gitte retningslinjer i FCOM (Flight Crew Operation Manual, TU-154M)
+
+For sen start i nedstigning for endelig innflygning (final descent) resulterte i okt vertikal innflygnings hastighet som flymannskapet matte opprettholde.
+
+Systematiske arsaker
+De systematiske arsakene til flyulykken hvor Tu-154M med halenummer 101 var involvert var signifikante mangler i organiseringen av flyoperasjoner, forberedelser av flybesetningen samt mangler i gjennomforing av sakalte VIP flyvninger i regi av luftfartsregimentet.
+
+Den polske etterforskningskomiteens konklusjon
+Den direkte arsaken til luftfartsulykken var nedstigning til under minimums nedstignings hoyde ved for hoy nedstigningsrate (vertikal hastighet) i varforhold som ikke tillot synlig bakkekontakt samt for sen gjennomforing av go-around manovren. Disse omstendighetene medforte sammenstot med hindringer i terrenget som resulterte i atskillelse av venstre vinge med balanseror (aileron) fra flymaskinen og pafolgende tap av kontroll over flymaskinen og deretter sammenstot med bakken.
+
+Omstendigheter som bidro til flyulykken
+Svikt i a overvake hoyden ved hjelp av barometrisk/trykk hoydemaler under ikke-presisjonsinnflyging.
+
+Mannskapets svikt til a etterkomme handling ved en rekke advarsler generert av TAWS.
+
+Forsok pa a utfore go-around manovrer under kontroll av ABSU (automatisk go-around).
+
+Innflyvnings kontrollerens forsikring om flyets riktige posisjon i forhold til rullebanens terskel, glide-slope samt informasjon om riktig kurs kan ha pavirket flymannskapets forestilling om at innflyvningen forgikk riktig selv om flyet faktisk var utenfor tillatte avvik marginer.
+
+Landingsone kontrollerens, LZC (Landing zone controller) svikt i a informere flymannskapet om nedstigning under glide slope samt forsinket ordre om a flate ut (level -out).
+
+Inadekvat opplaring av Tu-154M flybesetninger i de 36. regimentet.
+
+Andre bidrag til flyulykken
+Feilaktig samordning av mannskapets arbeid, noe som plasserte en stor byrde pa fartoysjefen i siste fase av flygingen.
+
+Utilstrekkelig forberedelse av flymannskapet for flyvningen.
+
+Mannskapets utilstrekkelige kjennskap til flyets systemer og dets begrensninger.
+
+Mannskapets utilstrekkelige kryss-overvaking og unnlatelse av a reagere ved begatte feil.
+
+Inadekvat sammensetning av flymannskapet for gitt oppgave.
+
+Luftforsvarets ineffektive umiddelbare tilsyn av det 36. regiments flytrenings prosess.

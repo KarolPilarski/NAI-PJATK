@@ -1,0 +1,42 @@
+er et amerikansk selskap som produserer mikroprosessorer. Firmaet ble grunnlagt 18. juli 1968 av fysiker Robert Noyce, og kjemikerne Gordon Moore og Andrew Grove. Selskapet var verdens storste innen halvlederteknologi frem til det ble forbigatt av Samsung i 2017,[3] og star bak x86-arkitekturen som benyttes i de fleste PC-er.
+
+
+Innhold
+1	Historie
+2	Produkter og markedshistorie
+3	Se ogsa
+4	Referanser
+5	Eksterne lenker
+Historie
+Intel ble grunnlagt i Mountain View i California i USA av Robert Noyce og Gordon Moore, to av «de svikefulle atte» som forlot Shockley Semiconductor Laboratory i 1957. «De svikefulle atte» grunnla Fairchild Semiconductor i 1957, der Grove ble ansatt i 1963. De tre forlot Fairchild Semiconductors da de folte seg bedratt av sine eiere.[4] En annen ansatt hos Fairchild, Jerry Sanders grunnla AMD i 1969,[5] og en tenaring i narmiljoet som Noyce veiledet, Steve Jobs, grunnla i 1976 Apple.
+
+Intel er et sammentrukket ord av de engelske ordene integrated og electronics.[6]
+
+Intels forste produkter var skiftregistre og RAM-brikker og i 1970-arene ble de ledende pa SRAM- og DRAM-type minnebrikker. Intel laget sin forste kommersielle microchip Intel 4004 i 1971 og deretter Intel 8008 og i 1974 Intel 8080. I 1979 kom x86-arkitekturen med Intel 8086 som IBM tok i bruk. I 1980-arene overtok japanske produsenter minnemarkedet, men okt popularitet for IBMs «personlige datamaskin» overbeviste Moore om at fremtiden la i mikroprosessorer. Da Intel 386 kom, valgte Intel a ikke lisensiere designet til andre produsenter, og AMD, som Intel fram til da hadde samarbeidet med, saksokte dem, og Intel matte i 1991 betale erstatning.[7] Markedet vokste raskt i 1980-arene og Intel vokste raskt. Intel 486 kom i 1989, mens neste generasjon x86, som kom i 1993 ble kalt Pentium. Moore overlot direktorjobben til Grove i 1987.[8]
+
+Etter 2000 sprakk dot com-boblen, og ettersporselen falt noe, blant annet fordi AMD hadde blitt en reell konkurrent.[trenger referanse] Selskapets direktor fra 1998 til 2005, Craig Barret, hadde forsokt a spre risikoen ved a satse pa andre markeder en mikroprosessorer, uten videre suksess.[8]
+
+I 2005 overtok Paul Otellini, som i 2006 endret navnestretegi for Intels prosessorer, droppet Pentium-navnet og kalte prosessorene Celeron, Core i3, Core i5 og Core i7.
+
+I 2010 startet en strategi med oppkjop, og selskaper som McAfee, Infineon Technologies og, etter hvert, ble Altera kjopt.
+
+Brian Krzanich overtok som daglig leder i mai 2013, etter at Otellini pensjonerte seg.
+
+I 2016 reduserte selskapet antall ansatte med 12 000 etter a ikke ha lykkes like godt pa mobilmarkedet som pa PC-markedet.[9]
+
+Produkter og markedshistorie
+Intels tidligste produkter inkluderte forskjellige typer minne, som DRAM, SRAM og ROM, men tidlig i 1980-arene kom Intel under trykk fra produsenter i Japan, som kunne lage minne av samme kvalitet som Intel for en lavere pris. Dermed skiftet Intel fokuset sitt til mikroprosessorer. Dette kulminerte etterhvert i at Intel 8086-prosessoren ble produsert og ble starten pa Intels mest suksessfulle prosessorlinje.
+
+Intels mest brukte prosessor i forbrukermarkedet er «Intel Core»-serien. Denne serien bestar av Core i3, Core i5 og Core i7.
+
+Det er ogsa produsert en Core i9 som er langt mindre vanlig, da den er langt dyrerer enn andre prosessoren i «Intel Core»-serien. Disse benytter ogsa en annen «socket», som vil si at de bare er kompatibel med et fatall hovedkort.[10]
+
+«Intel Core»-prosessorene er i tillegg nummerert med generasjons-nummer, serienummer, og en bokstav som forteller noe om egenskapene til prosessoren.
+
+Eksempel: Intel Core i7-6700K. Her forteller «i7» hvilken under-serie prosessoren tilhorer. «6» forteller oss at prosessoren er fra sjette prosessor-generasjon. «700» er serienummer. «K» forteller at prosessoren kan bli overklokket. En «U» ville indikert at prosessoren er laget for stromsparing (typisk brukt i laptop), mens en «G» hadde indikert innebygd grafikk egenskaper.[11]
+
+For hver generasjon intel lanserer doper de ogsa arkitekturen prosessorene benytter for et unikt navn. Dette navnet er likt pa i3, i5 og i7 of hver generasjon. Det vil si at en i3 og en i7 vil ha samme navn pa arkitekturen sa lenge de tilhorer samme generasjon.
+
+Sjette (6) generasjon i «Intel Core»-serien heter Skylake. Syvende (7) generasjon heter Kabylake. Attende (8) generasjon heter Coffeelake.[trenger referanse]
+
+Per 20. september 2018 er attende generasjonen den nyeste tilgjengelig pa markedet, men en niende generasjon er bekreftet av intel, uten at en lanserings-dato er satt. Trolig kommer denne pa markedet tidlig 2019.

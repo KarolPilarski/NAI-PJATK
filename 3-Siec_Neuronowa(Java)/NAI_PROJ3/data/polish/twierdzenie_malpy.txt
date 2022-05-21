@@ -1,0 +1,133 @@
+Twierdzenie o nieskoñczonej liczbie ma³p – twierdzenie stanowi¹ce, ¿e ma³pa naciskaj¹c losowo klawisze maszyny do pisania przez nieskoñczenie d³ugi czas, z du¿ym prawdopodobieñstwem napisze dowolnie wybrany tekst, taki jak na przyk³ad kompletny dorobek Williama Szekspira.
+
+W tym kontekœcie „prawdopodobieñstwo bliskie pewnoœci” nale¿y traktowaæ œciœle z matematycznego punktu widzenia (zdarzenie przeciwne ma prawdopodobieñstwo zmierzaj¹ce do zera, jednak nie jest zdarzeniem niemo¿liwym), a „ma³pa” jest jedynie metafor¹ dla abstrakcyjnego urz¹dzenia generuj¹cego nieskoñczony losowy ci¹g liter. Twierdzenie ilustruje zagro¿enia p³yn¹ce z postrzegania nieskoñczonoœci jako olbrzymiej, ale skoñczonej liczby, a tak¿e z rozumowania odwrotnego – postrzegania du¿ej liczby jako nieskoñczonoœci. Prawdopodobieñstwo napisania przez ma³pê zadanego tekstu, z³o¿onego z du¿ej liczby znaków, jak na przyk³ad sztuki pod tytu³em Hamlet, jest tak ma³e, ¿e szansa wyst¹pienia zadanego ci¹gu znaków nawet w czasie rzêdu jednego wieku wszechœwiata jest znikoma.
+
+Warianty twierdzenia zak³adaj¹ od kilku po nieskoñczon¹ liczbê ma³p, a d³ugoœæ zadanego tekstu zmienia siê od pojedynczego zdania do zawartoœci ca³ej biblioteki. Historiê twierdzenia mo¿na przeœledziæ ju¿ od Metafizyki Arystotelesa oraz De natura deorum Cycerona, nastêpnie przez czasy Pascala i Swifta, a¿ do wspó³czesnych twierdzeñ z ich symbolem maszyny do pisania. Na pocz¹tku XX wieku, Émile Borel i Arthur Eddington u¿yli tego twierdzenia, by zilustrowaæ skalê czasu znajduj¹c¹ siê u podstaw mechaniki statystycznej. Twierdzenie to budzi spory naukowe w kontekœcie poprawnoœci rozumowania. Ró¿ni chrzeœcijañscy apologeci spierali siê z biologami (np. Richardem Dawkinsem) w kwestii w³aœciwoœci u¿ycia ma³p jako metafory ewolucji.
+
+Obecnie zainteresowanie twierdzeniem o ma³pach pisz¹cych na maszynie jest podtrzymywane przez odwo³ania w literaturze, mediach i muzyce. Symuluj¹ca eksperyment z ma³pami strona internetowa „Monkey Shakespeare Simulator” zdo³a³a dotrzeæ do 24. znaku – „RUMOUR. Open your ears;”[1][2]. W 2003 roku przeprowadzono eksperyment z szeœcioma makakami czubatymi. Jego wynikiem by³o piêæ stron zapisanych g³ównie literami S[3]. Po przeprowadzeniu eksperymentu badacze stwierdzili, ¿e twierdzenie o nieskoñczonej liczbie ma³p nie odnosi siê do rzeczywistych ma³p.
+
+
+Spis treœci
+1	Dowód
+1.1	Za³o¿enia
+1.2	Prawdopodobieñstwo
+2	Historia
+2.1	Mechanika statystyczna
+2.2	Geneza i „La biblioteca total”
+3	Zastosowania
+3.1	Ewolucja
+3.2	Literatura
+3.3	Generowanie liczb losowych
+4	Empiria
+5	Popkultura
+6	Zobacz te¿
+7	Przypisy
+8	Linki zewnêtrzne
+Dowód
+Za³o¿enia
+Generalnie mo¿na udowodniæ, ¿e z prawdopodobieñstwem zmierzaj¹cym do 1 (co nie znaczy „na pewno“) Hamleta napisz¹ zarówno jedna ma³pa z nieograniczonym czasem do dyspozycji, jak i nieskoñczona liczba ma³p w skoñczonym czasie.
+
+Aby twierdzenie by³o prawdziwe, konieczne s¹ pewne za³o¿enia:
+
+Ka¿da litera ma niezerowe prawdopodobieñstwo. Gdyby np. ma³py omija³y literê H, Hamlet nie zosta³by nigdy napisany.
+Ma³py nie zmieniaj¹ zachowania (proces „ma³pa” jest stacjonarny). Gdyby ma³py wciska³y H coraz rzadziej, to przy pewnych za³o¿eniach twierdzenie o napisaniu Hamleta przez jedn¹ ma³pê w nieskoñczonym czasie tak¿e by³oby fa³szywe.
+Ka¿da litera jest niezale¿na od pozosta³ych. Gdyby np. po literze H zawsze nastêpowa³o jej powtórzenie, Hamlet nie zosta³by nigdy napisany.
+Prawdopodobieñstwo
+Ignoruj¹c znaki interpunkcyjne, spacje oraz pisowniê wielk¹ liter¹, ma³pa pisz¹ca z równomiernym rozk³adem prawdopodobieñstwa ma jedn¹ szansê na 26[4], by poprawnie napisaæ pierwsz¹ literê Hamleta. Ma jedynie jedn¹ szansê na 676 (26 razy 26), by napisaæ dwie pierwsze litery. Poniewa¿ prawdopodobieñstwo spada wyk³adniczo, przy 20 literach ma zaledwie jedn¹ szansê na 2620 = 19 928 148 895 209 409 152 340 197 376. W przypadku ca³ego tekstu Hamleta prawdopodobieñstwo to jest niewyobra¿alnie ma³e. Za³ó¿my, ¿e tekst Hamleta zawiera 130 000 znaków (w rzeczywistoœci wiêcej, nawet pozbawiony interpunkcji). Wtedy prawdopodobieñstwo wylosowania takiego tekstu jest jak 1 do 3,4×10183946. Œrednia liczba liter, jakie trzeba napisaæ, wynosi wiêc 3,4×10183946[5].
+
+Dla porównania istnieje jedynie oko³o 1079 atomów w obserwowalnym Wszechœwiecie i zaledwie 4,3×1017 sekund up³ynê³o od Wielkiego Wybuchu. Nawet jeœli wszechœwiat by³by wype³niony ma³pami pisz¹cymi bez przerwy, ich ca³kowite prawdopodobieñstwo stworzenia pojedynczego egzemplarza Hamleta by³oby i tak mniejsze ni¿ 1 do 10183800. Jak ujêli to Kittel i Kroemer, „Prawdopodobieñstwo napisania Hamleta jest wiêc równe zeru dla ka¿dej mo¿liwej realizacji”, a stwierdzenie, ¿e ma³pom musi ostatecznie siê powieœæ „prowadzi do zwodniczych wniosków o bardzo, bardzo wielkich liczbach”. Wypowiedzi te pochodz¹ z ich ksi¹¿ki o termodynamice, dziedzinie nauki, której statystyczne podstawy sprowokowa³y pierwsze znane u¿ycie metafory ma³p pisz¹cych na maszynie[6].
+
+Historia
+Mechanika statystyczna
+Jedna ze znanej obecnie matematykom wersji twierdzenia z pisz¹cymi ma³pami, ukaza³a siê w artykule Émila Borela z 1913 roku zatytu³owanym „Mécanique Statistique et Irréversibilité” (Mechanika statystyczna i nieodwracalnoœæ)[7] oraz w jego ksi¹¿ce „Le Hasard” z 1914.
+
+Jego „ma³py” nie s¹ prawdziwymi ma³pami, a jedynie metafor¹ nierzeczywistego sposobu tworzenia wielkich, losowych sekwencji znaków. Borel stwierdzi³, ¿e gdyby milion ma³p pisa³ na maszynie po dziesiêæ godzin dziennie, by³oby skrajnie ma³o prawdopodobne, ¿e efekt ich pracy by³by dok³adn¹ kopi¹ ca³ych ksiêgozbiorów najbogatszych ksiêgarni œwiata; ale jednoczeœnie, jest jeszcze mniej prawdopodobne, by prawa mechaniki statystycznej zosta³y z³amane, choæby nieznacznie[potrzebny przypis].
+
+Fizyk Arthur Eddington, czerpi¹c z wizji Borela, posun¹³ siê o krok dalej w The Nature of the Physical World (1928), pisz¹c:
+
+Jeœli pozwolê moim palcom poruszaæ siê bez³adnie po klawiaturze, mo¿e siê zdarzyæ, ¿e otrzymam logiczne zdanie. Jeœli armia ma³p bêdzie klikaæ na swoich maszynach do pisania, mog¹ napisaæ wszystkie ksi¹¿ki z British Museum. Prawdopodobieñstwo, ¿e im siê to uda jest zdecydowanie wiêksze, ni¿ prawdopodobieñstwo cz¹steczek powracaj¹cych do jednej czêœci naczynia[8].
+
+Arthur Eddington, The Nature of the Physical World: The Gifford Lectures
+Te obrazy zmuszaj¹ czytelnika do rozwa¿enia, jak niewielkie jest prawdopodobieñstwo, by wielka – ale skoñczona – liczba ma³p pisz¹ca przez wielki – ale skoñczony – okres, by³a zdolna otrzymaæ jakieœ znacz¹ce dzie³o oraz porównania tego z jeszcze mniejszym prawdopodobieñstwem niektórych zdarzeñ w fizyce. Ka¿dy fizyczny proces mniej prawdopodobny ni¿ powodzenie w przypadku ma³p, jest w istocie niemo¿liwy i mo¿na bezpiecznie powiedzieæ, ¿e nigdy nie wyst¹pi[6].
+
+Geneza i „La biblioteca total”
+W eseju z 1939 roku zatytu³owanym „La biblioteca total” (zupe³na biblioteka), argentyñski pisarz Jorge Luis Borges przeœledzi³ koncepcjê nieskoñczonej liczby ma³p a¿ do czasów Metafizyki Arystotelesa. Wyjaœniaj¹c pogl¹dy Leucypa, który utrzymywa³, ¿e œwiat powsta³ z losowej kombinacji atomów, Arystoteles zauwa¿a, ¿e same atomy s¹ nierozró¿nialne, a ich mo¿liwe uk³ady ró¿ni¹ siê jedynie pozycj¹ i ustawieniem. Grecki filozof porównuje to do faktu, ¿e tragedia i komedia sk³adaj¹ siê z tych samych „atomów”, to znaczy z tych samych liter[potrzebny przypis]. Trzy wieki póŸniej w De natura deorum (O naturze bogów) Cyceron sprzecza³ siê z tym atomistycznym œwiatopogl¹dem:
+
+Ten, kto daje temu wiarê, mo¿e równie dobrze wierzyæ, ¿e gdyby rzucono na ziemiê wielk¹ liczbê liter alfabetu ze z³ota czy innego materia³u, u³o¿y³yby siê one w takim porz¹dku, by da³o siê odczytaæ Annales Enniusza. W¹tpiê, by los pozwoli³ na odczytanie choæ jednego wersu[9].
+
+Cyceron, De natura deorum
+Borges œledz¹c historiê dyskusji zauwa¿y³ zmianê jêzyka od czasów Blaise’a Pascala i Jonathana Swifta. Do roku 1939 twierdzenie mia³o ju¿ bowiem postaæ: „Jeœli daæ po³owie tuzina ma³p maszyny do pisania, to w nieskoñczenie d³ugim czasie, stworz¹ wszystkie ksi¹¿ki z British Museum”[10] (do czego Borges dodaje, ¿e „œciœle rzecz ujmuj¹c wystarczy³aby jedna nieœmiertelna ma³pa”[11]). Borges wyobra¿a sobie nastêpnie zawartoœæ zupe³nej biblioteki, jaka powsta³aby przy takim przedsiêwziêciu posuniêtym do skrajnoœci:
+
+Wszystko znalaz³oby siê w tych pisanych na œlepo zbiorach. Wszystko: powsta³yby szczegó³owa historia przysz³oœci, zaginione utwory Ajschylosa, dok³adna liczba razy odbicia przelatuj¹cego soko³a w wodach Gangesu, sekret i prawdziwe oblicze Rzymu, encyklopedia Novalis oraz moje sny i œwiadomy sen o œwicie 14 sierpnia 1934 roku, dowód twierdzenia Pierre’a Fermata, nienapisane rozdzia³y The Mystery of Edwin Drood, te same rozdzia³y przet³umaczone na jêzyk Garamantów, (…) pieœñ, któr¹ œpiewa³y syreny, kompletny katalog tej¿e biblioteki oraz dowody nieœcis³oœci w tym¿e katalogu. Wszystko: ale na ka¿d¹ sensown¹ linijkê tekstu, czy na konkretny fakt, przypada³yby miliony linijek bezsensownej kakofonii i s³ownego be³kotu. Wszystko: ale wszystkie pokolenia ludzkoœci mog³yby przemin¹æ przed jej osza³amiaj¹cymi pó³kami – pó³kami przyæmiewaj¹cymi dzieñ i wype³nionymi chaosem – nim te nagrodzi³yby ich choæ jedn¹ znoœn¹ stron¹[12].
+
+Jorge Luis Borges, La biblioteca total
+Zastosowania
+Ewolucja
+
+Thomas Huxley
+B³êdnie przypisuje siê mu wariant teorii.
+Rywal Eddingtona, James Jeans w swojej ksi¹¿ce The Mysterious Universe z 1931 roku przypisa³ ma³pi¹ parabolê Huxleyowi, maj¹c prawdopodobnie na myœli Thomasa Henry’ego Huxleya. Jednak¿e nie mia³ on racji[13].
+
+Do dziœ zdarzaj¹ siê przypadki przypisywania u¿ycia tego przyk³adu przez Huxleya w debacie dotycz¹cej dzie³a O powstawaniu gatunków Karola Darwina z anglikañskim biskupem Oxford, Samuelem Wilberforcem, przeprowadzonej na spotkaniu British Association for the Advancement of Science w Oxford 30 czerwca 1860 roku. Fakt u¿ycia porównania do ma³p jest nie tylko niepotwierdzony, ale na dodatek maszyna do pisania nie by³a jeszcze znana w roku 1860[14]. Naczelne by³y wci¹¿ dra¿liwym tematem z innych wzglêdów, a debata miêdzy Huxleyem a Wilverforcem odwo³ywa³a siê do ma³p: biskup spyta³, czy Huxley wywodzi³ siê od ma³py w linii mêskiej, czy ¿eñskiej, na co Huxley odpar³, ¿e woli byæ potomkiem ma³py ni¿ kogoœ, kto u¿ywa tak nieuczciwych argumentów jak biskup[15].
+
+Pomimo pierwotnego zamieszania argument ma³py z maszyn¹ do pisania jest obecnie czêsto przytaczany w sporach dotycz¹cych ewolucji. Przyk³adowo Doug Powell twierdzi jako chrzeœcijañski apologeta, ¿e nawet gdyby ma³pa przypadkowo napisa³a treœæ Hamleta, to i tak nie powiod³o jej siê stworzyæ Hamleta, jako ¿e zabrak³o jej intencji do komunikacji. Jego zdaniem, prowadzi to bezpoœrednio do wniosku, ¿e natura nie by³a w stanie wykszta³ciæ informacji zawartej w DNA[16]. Czêstszy pogl¹d reprezentuje John MacArthur, który twierdzi, ¿e genetyczne mutacje potrzebne do uzyskania tasiemca z ameby s¹ równie ma³o prawdopodobne co napisanie przez ma³pê monologów Hamleta, a co za tym idzie argumenty przeciwko ewolucji ca³ego ¿ycia, s¹ niemo¿liwe do przezwyciê¿enia[17].
+
+
+Richard Dawkins
+Ewolucjonista Richard Dawkins pos³u¿y³ siê koncepcj¹ pisz¹cych ma³p w swojej ksi¹¿ce z 1986 roku Œlepy zegarmistrz, by zademonstrowaæ mo¿liwoœci doboru naturalnego w zakresie tworzenia z³o¿onych form biologicznych poprzez losowe mutacje. W opisywanym przez siebie eksperymencie Dawkins u¿ywa swojego programu (Weasel program), by wytworzyæ kwestiê Hamleta METHINKS IT IS LIKE A WEASEL[18] poprzez pisanie losowych liter, ale ci¹gle zachowuj¹c zgodne z orygina³em czêœci. Istot¹ jest wiêc niegenerowanie losowego ci¹gu znaków, a wy³uskiwanie informacji przez dobór naturalny[19].
+
+Inn¹ podstawê do odrzucenia analogii miêdzy ewolucj¹ i nieograniczon¹ ma³p¹ stanowi fakt, ¿e ma³pa pisze jednoczeœnie tylko jedn¹ literê oraz czyni to niezale¿nie od innych napisanych liter. Hugh Petrie uwa¿a, ¿e potrzebny jest bardziej skomplikowany model, w jego przypadku w dziedzinie nie biologii, a ewolucji idei:
+
+resize
+Aby w pe³ni oddaæ analogiê, musielibyœmy wyposa¿yæ ma³pê w bardziej z³o¿on¹ maszynê do pisania. Musia³aby zawieraæ ca³e el¿bietañskie zdania i myœli. Musia³aby zawieraæ el¿bietañskie przekonania na temat ludzkich zachowañ i ich przyczyn, el¿bietañsk¹ moralnoœæ i naukê oraz struktury jêzykowe do ich wyra¿ania. Musia³aby prawdopodobnie zawieraæ równie¿ zbiór wszystkich doœwiadczeñ, które kszta³towa³y strukturê przekonañ Szekspira jako konkretnego przypadku ówczesnego cz³owieka. Wtedy, prawdopodobnie, moglibyœmy pozwoliæ ma³pie na zabawê z tak¹ maszyn¹ do pisania i tworzenie tekstów, ale niemo¿liwoœæ uzyskania sztuki Szekspira nie jest ju¿ oczywista. Ró¿nica obejmuje bowiem olbrzymi¹ iloœæ ju¿ osi¹gniêtej wiedzy[20].
+
+Hugh Petrie
+James W. Valentine, uznaj¹c niewykonalnoœæ klasycznego zadania postawionego ma³pom, uwa¿a, ¿e istnieje warta uwagi analogia miêdzy pismem a zwierzêcym genomem w sensie, ¿e obie maj¹ „kombinacyjne, hierarchiczne budowy”, które znacznie zawê¿aj¹ olbrzymi¹ liczbê kombinacji na poziomie alfabetu[21].
+
+Literatura
+R. G. Collingwood spiera³ siê w 1938 roku, ¿e sztuka nie mo¿e powstaæ przypadkowo i sarkastycznie napisa³ na marginesie swoich recenzji:
+
+[Niektórzy] odrzucili tê propozycjê mówi¹c¹, ¿e jeœli ma³pa bawi³aby siê klawiatur¹ stworzy³aby pe³ny tekst Szekspira. Ka¿dy czytelnik, niemaj¹cy innego zajêcia, mo¿e zabawiaæ siê obliczaniem czasu potrzebnego na to, by prawdopodobieñstwo by³o warte obstawienia. Ale interesuj¹ca czêœæ propozycji le¿y w objawieniu stanu umys³owego osoby, która identyfikuje «dzie³a» Szekspira z ci¹giem liter wydrukowanym na stronach ksi¹¿ki[22]…
+
+R. G. Collingwood, The Principles of Art
+Nelson Goodman przyj¹³ przeciwn¹ pozycjê, przedstawiaj¹c swoje racje razem z Catherine Elgin przyk³adem opowiadania Jorge’a Borgesa Pierre Menard, autor del Quijote (Pierre Menard, autor Don Kichota)[23]:
+
+To co napisa³ Menard jest po prostu kolejnym zapisem tekstu. Ka¿dy z nas mo¿e tego dokonaæ, tak samo jak prasy drukarskie i ksera. Istotnie, mówi siê, maj¹c nieskoñczenie wiele ma³p (…) jedna ostatecznie wytworzy replikê tekstu. Ta replika, naszym zdaniem, bêdzie równowa¿n¹ kopi¹ dzie³a Don Quixote, jak rêkopis Cervantesa, rêkopis Menarda i ka¿da kopia ksi¹¿ki jaka kiedykolwiek zostanie wydrukowana[24].
+
+W innym utworze Goodman rozwija: „Fakt, ¿e ma³pa mo¿e byæ podejrzewana o napisanie swojej kopii przypadkowo nie ma znaczenia. Jest to ten sam tekst i podlega on tym samym interpretacjom…”. Gérard Genette odrzuci³ argument Goodmana jako wielce w¹tpliwy[25].
+
+Jorge J. E. Gracia uwa¿a, ¿e pytanie o to¿samoœæ tekstów prowadzi do innego pytania – do pytania o autorstwo. Jeœli ma³pa jest w stanie napisaæ na maszynie Hamleta, mimo braku przekazywania ¿adnej myœli i tym samym dyskwalifikuj¹c siebie jako autora, wtedy wydaje siê, ¿e tekst nie potrzebuje autorów. Mo¿liwym rozwi¹zaniem jest uznawanie za autora tego, kto odnajdzie tekst i zidentyfikuje go jako Hamleta; lub, ¿e Szekspir jest autorem, ma³pa jego poœrednikiem, a znalazca jedynie u¿ytkownikiem tekstu. Te rozwi¹zania tworz¹ w³asne problemy: na przyk³ad gdy ma³pa dzia³a³aby przed urodzeniem Szekspira, lub w przypadku, gdy Szekspir nigdy by siê nie narodzi³ lub gdyby nikt nie odnalaz³ maszynopisu ma³py[26].
+
+Generowanie liczb losowych
+	Zobacz teksty Williama Szekspira w WikiŸród³ach
+Twierdzenie dotyczy eksperymentu myœlowego, którego nie da siê w pe³ni odtworzyæ w praktyce z racji potrzeby posiadania nieskoñczonych zasobów oraz czasu. Mimo to, by³o ono bodŸcem do prac nad skoñczonymi generatorami losowymi tekstu.
+
+Program komputerowy uruchomiony przez Dana Olivera ze Scottsdale w Arizonie, wed³ug artyku³u w The New Yorker, zwróci³ 4 sierpnia 2004 roku nastêpuj¹cy wynik: Po 42 162 500 tryliardach (4,2×1028) lat jedna z grupy „ma³p” stworzy³a tekst:
+
+VALENTINE. Cease toIdor:eFLP0FRjWK78aXzVOwm)-‘;8.t...
+
+Pierwszych 19 liter tej sekwencji znajduje siê w komedii Dwaj panowie z Werony. Inne grupy odtworzy³y 18 liter z tragedii Tymon Ateñczyk, 17 z tragedii Troilus i Kresyda oraz 16 z Ryszarda II[27].
+
+1 lipca 2003 roku uruchomiono stronê internetow¹ The Monkey Shakespeare Simulator, zawieraj¹c¹ aplet Javy, który symulowa³ wielk¹ populacjê losowo pisz¹cych ma³p. Intencj¹ twórców by³o sprawdzenie jak d³ugo zajmie wirtualnym ma³pom napisanie kompletnej sztuki Szekspira. Przyk³adowo aplet wyprodukowa³ poni¿szy, zgodny w 24 znakach, fragment pochodz¹cy ze sztuki Henryk IV, czêœæ 2, wraz z oszacowaniem, ¿e proces zaj¹³ „2 737 850 milionów miliardów miliardów miliardów ma³po-lat” (tj. 2,7 sekstyliarda = 2,7×1039):
+
+RUMOUR. Open your ears; 9r”5j5&?OWTY Z0d...
+
+Ze wzglêdu na ograniczenia mocy obliczeniowej, program u¿ywa³ modelu probabilistycznego (wykorzystuj¹c generator liczb losowych) zamiast naprawdê losowaæ tekst i porównywaæ ze sztukami. Gdy symulator wykrywa³ zgodnoœæ znaków (to jest, gdy wynik z generatora losowego zawiera³ siê w danym przedziale), symulator naœladowa³ wpisanie zgodnych znaków[28]. Obecnie strona ju¿ nie istnieje.
+
+Pytania o statystykê opisuj¹c¹, jak czêsto idealna ma³pa powinna pisaæ pewne ci¹gi, mo¿e prowadziæ tak¿e do przeprowadzania praktycznych testów generatorów losowych; testy wystêpuj¹ w zakresie od zupe³nie prostych do „ca³kiem zaawansowanych”. Profesorowie informatyki George Marsaglia i Arif Zaman relacjonuj¹, ¿e zwykli byli nazywaæ takie testy „testami zachodz¹cych na siebie m-tek” (overlapping m-tuple tests) na swoich wyk³adach, gdy¿ bazowa³y one na zachodz¹cych na siebie m-tkach kolejnych elementów w losowej sekwencji. Stwierdzili jednak, ¿e nazywanie ich „ma³pimi testami” pomaga³o zainteresowaæ studentów. W 1993 roku opublikowali oni raport dotycz¹cy tej klasy testów i ich wyniki dla ró¿nych generatorów liczb losowych[29][30].
+
+Empiria
+
+Makak czubaty
+Badacze zachowañ naczelnych Cheney i Seyfarth zauwa¿aj¹, ¿e prawdziwe ma³py rzeczywiœcie musia³yby polegaæ na przypadku usi³uj¹c uzyskaæ kopiê Romea i Julii. Z wyj¹tkiem ma³p cz³ekokszta³tnych, a zw³aszcza szympansów, dowody wskazuj¹, ¿e ma³py nie posiadaj¹ umys³u zdolnego do odró¿niania swojej wiedzy, emocji i przekonañ od innych. Nawet gdyby ma³pa nauczy³a siê napisaæ treœæ sztuki i opisaæ zachowania jej postaci, to nie bêdzie w stanie przenikn¹æ myœli postaci, w ten sposób prowadz¹c do ironicznej tragedii[31].
+
+W 2003 roku, wyk³adowcy i studenci z kursu MediaLab Arts Uniwersytetu Plymouth wykorzystali grant w wysokoœci 2000 funtów pochodz¹cy z Arts Council by sprawdziæ co s¹ w stanie napisaæ prawdziwe ma³py. Pozostawili klawiaturê komputerow¹ w zagrodzie szeœciu makaków czubatych w zoo Paignton w Devon w Anglii na miesi¹c, z ³¹czem radiowym do publikacji wyników na stronie internetowej. Jeden z badaczy, Mike Phillips, uzasadnia³ wysokoœæ poniesionych kosztów jako znacznie tañsze ni¿ reality show, ale wci¹¿ „pobudzaj¹ce i fascynuj¹ce widowisko”[32].
+
+Ma³py nie tylko stworzy³y zaledwie piêæ stron[33] sk³adaj¹cych siê g³ównie z litery S – dominuj¹cy samiec zacz¹³ waliæ w klawiaturê kamieniem, a nastêpnie ma³py dokoñczy³y dzie³a oddaj¹c na ni¹ mocz i ka³. Pracownik naukowy zoo stwierdzi³, ¿e eksperyment mia³ „ma³¹ wartoœæ naukow¹, z wyj¹tkiem ukazania, ¿e «twierdzenie o nieskoñczonej liczbie ma³p» jest obarczone wad¹”. Phillips stwierdzi³, ¿e sfinansowany przez artystów projekt by³ g³ównie rodzajem performance’u, oraz ¿e nauczyli siê z niego „strasznie du¿o”. Jego konkluzj¹ by³ fakt, ¿e ma³py „nie s¹ generatorami losowymi. S¹ znacznie bardziej z³o¿one. (…) By³y mocno zainteresowane ekranem, na którym widzia³y, ¿e w przypadku wciœniêcia klawisza coœ siê dzia³o. By³o to w jakimœ stopniu dzia³anie zamierzone”[32][34].
+
+Popkultura
+Twierdzenie o nieskoñczonej liczbie ma³p i zwi¹zane z ni¹ obrazy uwa¿a siê za potoczn¹ ilustracjê rachunku prawdopodobieñstwa, rozpowszechnion¹ raczej dziêki przekazom w popkulturze, ni¿ dziêki wiedzy zdobytej w szkole[35][36].
+
+We wstêpie do „Monkeys, Typewriters and Networks – the Internet in the Light of the Theory of Accidental Excellence” (2001, Hoffmann and Hofmann)[37] zosta³a zauwa¿ona wyj¹tkowa popularnoœæ i zasiêg twierdzenia. W 2002 roku, w artykule Washington Post napisano: „Mnóstwo ludzi bawi³o wyobra¿enie, ¿e nieskoñczenie du¿a liczba ma³p z nieskoñczenie du¿¹ liczb¹ maszyn do pisania oraz w nieskoñczenie d³ugim czasie mo¿e ostatecznie napisaæ dzie³a Szekspira”[38]. W 2003 roku, wspomniany wczeœniej eksperyment finansowany przez Arts Council z u¿yciem prawdziwych ma³p i klawiatury komputerowej zosta³ szeroko opisany w relacjach prasowych[39]. W 2007 roku, twierdzenie zosta³o umieszczone przez magazyn Wired na liœcie oœmiu klasycznych eksperymentów myœlowych[40].
+
+Historia ilustracji „pisz¹cych ma³p” siêga co najmniej czasów u¿ycia przez Borela metafory w jego eseju z 1913 roku i obraz ten powtarza³ siê wielokrotnie w ró¿nych œrodkach przekazu. Obecnie, powszechne zainteresowanie pisz¹cymi na maszynie ma³pami jest podtrzymywane przez liczne nawi¹zania w literaturze, telewizji i radiu, w muzyce oraz w internecie, a tak¿e w komiksach i kabaretach

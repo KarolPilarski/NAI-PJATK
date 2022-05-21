@@ -1,0 +1,196 @@
+The Milky Way[a] is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek ?????????? ?????? (galaktikos kýklos), meaning "milky circle."[20][21][22] From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe.[23] Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis,[24] observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
+
+The Milky Way is a barred spiral galaxy with an estimated visible diameter of 100,000–200,000 light-years. Recent simulations suggest that a dark matter area, also containing some visible stars, may extend up to a diameter of almost 2 million light-years.[12][13] The Milky Way has several satellite galaxies and is part of the Local Group of galaxies, which form part of the Virgo Supercluster, which is itself a component of the Laniakea Supercluster.[25][26]
+
+It is estimated to contain 100–400 billion stars[27][28] and at least that number of planets.[29][30] The Solar System is located at a radius of about 27,000 light-years from the Galactic Center,[3] on the inner edge of the Orion Arm, one of the spiral-shaped concentrations of gas and dust. The stars in the innermost 10,000 light-years form a bulge and one or more bars that radiate from the bulge. The galactic center is an intense radio source known as Sagittarius A*, a supermassive black hole of 4.100 (± 0.034) million solar masses.[31][32] Stars and gases at a wide range of distances from the Galactic Center orbit at approximately 220 kilometers per second. The constant rotational speed appears to contradict the laws of Keplerian dynamics and suggests that much (about 90%)[33][34] of the mass of the Milky Way is invisible to telescopes, neither emitting nor absorbing electromagnetic radiation. This conjectural mass has been termed "dark matter".[35] The rotational period is about 240 million years at the radius of the Sun.[17] The Milky Way as a whole is moving at a velocity of approximately 600 km per second with respect to extragalactic frames of reference. The oldest stars in the Milky Way are nearly as old as the Universe itself and thus probably formed shortly after the Dark Ages of the Big Bang.[36]
+
+
+Contents
+1	Appearance
+2	Size and mass
+3	Contents
+4	Structure
+4.1	Galactic quadrants
+4.2	Galactic Center
+4.2.1	Gamma rays and x-rays
+4.3	Spiral arms
+4.4	Halo
+4.4.1	Gaseous halo
+4.5	Sun's location and neighborhood
+4.6	Galactic rotation
+5	Formation
+5.1	History
+5.2	Age and cosmological history
+6	Environment
+7	Velocity
+8	Etymology and mythology
+9	Astronomical history
+9.1	Mapping
+9.2	Mapping of the Galactic Center
+9.3	Map of Globular Clusters
+10	See also
+11	Notes
+12	References
+13	Further reading
+14	External links
+Appearance
+
+A view of the Milky Way toward the constellation Sagittarius (including the Galactic Center), as seen from a dark site with little light pollution (the Black Rock Desert, Nevada), the bright object on the lower right is Jupiter, just above Antares
+File:Following the Milky Way over ALMA.webm
+A time-lapse video capturing the Milky Way arching over ALMA
+The Milky Way is visible from Earth as a hazy band of white light, some 30° wide, arching the night sky.[37] In night sky observing, although all the individual naked-eye stars in the entire sky are part of the Milky Way Galaxy, the term "Milky Way" is limited to this band of light.[38][39] The light originates from the accumulation of unresolved stars and other material located in the direction of the galactic plane. Brighter regions around the band appear as soft visual patches known as star clouds. The most conspicuous of these is the Large Sagittarius Star Cloud, a portion of the central bulge of the galaxy.[40] Dark regions within the band, such as the Great Rift and the Coalsack, are areas where interstellar dust blocks light from distant stars. The area of sky that the Milky Way obscures is called the Zone of Avoidance.
+
+The Milky Way has a relatively low surface brightness. Its visibility can be greatly reduced by background light, such as light pollution or moonlight. The sky needs to be darker than about 20.2 magnitude per square arcsecond in order for the Milky Way to be visible.[41] It should be visible if the limiting magnitude is approximately +5.1 or better and shows a great deal of detail at +6.1.[42] This makes the Milky Way difficult to see from brightly lit urban or suburban areas, but very prominent when viewed from rural areas when the Moon is below the horizon.[b] Maps of artificial night sky brightness show that more than one-third of Earth's population cannot see the Milky Way from their homes due to light pollution.[43]
+
+As viewed from Earth, the visible region of the Milky Way's galactic plane occupies an area of the sky that includes 30 constellations.[44] The Galactic Center lies in the direction of Sagittarius, where the Milky Way is brightest. From Sagittarius, the hazy band of white light appears to pass around to the galactic anticenter in Auriga. The band then continues the rest of the way around the sky, back to Sagittarius, dividing the sky into two roughly equal hemispheres.
+
+The galactic plane is inclined by about 60° to the ecliptic (the plane of Earth's orbit). Relative to the celestial equator, it passes as far north as the constellation of Cassiopeia and as far south as the constellation of Crux, indicating the high inclination of Earth's equatorial plane and the plane of the ecliptic, relative to the galactic plane. The north galactic pole is situated at right ascension 12h 49m, declination +27.4° (B1950) near ß Comae Berenices, and the south galactic pole is near ? Sculptoris. Because of this high inclination, depending on the time of night and year, the Milky Way arch may appear relatively low or relatively high in the sky. For observers from latitudes approximately 65° north to 65° south, the Milky Way passes directly overhead twice a day.
+
+
+The Milky Way arching at a high inclination across the night sky, (this composited panorama was taken at Paranal Observatory in northern Chile), the bright object is Jupiter in the constellation Sagittarius, and the Magellanic Clouds can be seen on the left; galactic north is downward
+Size and mass
+
+The structure of the Milky Way is thought to be similar to this galaxy (UGC 12158 imaged by Hubble)
+The Milky Way is the second-largest galaxy in the Local Group (after the Andromeda Galaxy), with its stellar disk approximately 170,000–200,000 light-years (52–61 kpc) in diameter and, on average, approximately 1,000 ly (0.3 kpc) thick.[14][15] To compare the relative physical scale of the Milky Way, if the Solar System out to Neptune were the size of a US quarter (24.3 mm (0.955 in)), the Milky Way would be approximately the size of the contiguous United States.[45] There is a ring-like filament of stars rippling above and below the relatively flat galactic plane, wrapping around the Milky Way at a diameter of 150,000–180,000 light-years (46–55 kpc),[46] which may be part of the Milky Way itself.[47]
+
+
+A schematic profile of the Milky Way.
+Abbreviations: GNP/GSP: Galactic North and South Poles
+The Milky Way is approximately 890 billion to 1.54 trillion times the mass of the Sun in total (8.9×1011 to 1.54×1012 solar masses),[33][34] although stars and planets make up only a small part of this. Estimates of the mass of the Milky Way vary, depending upon the method and data used. The low end of the estimate range is 5.8×1011 solar masses (M?), somewhat less than that of the Andromeda Galaxy.[48][49][50] Measurements using the Very Long Baseline Array in 2009 found velocities as large as 254 km/s (570,000 mph) for stars at the outer edge of the Milky Way.[51] Because the orbital velocity depends on the total mass inside the orbital radius, this suggests that the Milky Way is more massive, roughly equaling the mass of Andromeda Galaxy at 7×1011 M? within 160,000 ly (49 kpc) of its center.[52] In 2010, a measurement of the radial velocity of halo stars found that the mass enclosed within 80 kiloparsecs is 7×1011 M?.[53] According to a study published in 2014, the mass of the entire Milky Way is estimated to be 8.5×1011 M?,[54] but this is only half the mass of the Andromeda Galaxy.[54] A recent mass estimate for the Milky Way is 1.29×1012 M?.[55]
+
+Much of the mass of the Milky Way seems to be dark matter, an unknown and invisible form of matter that interacts gravitationally with ordinary matter. A dark matter halo is conjectured to spread out relatively uniformly to a distance beyond one hundred kiloparsecs (kpc) from the Galactic Center. Mathematical models of the Milky Way suggest that the mass of dark matter is 1–1.5×1012 M?.[6][7][56] Recent studies indicate a range in mass, as large as 4.5×1012 M?[57] and as small as 8×1011 M?.[58] By comparison, the total mass of all the stars in the Milky Way is estimated to be between 4.6×1010 M?[59] and 6.43×1010 M?.[6] In addition to the stars, there is also interstellar gas, comprising 90% hydrogen and 10% helium by mass,[60] with two thirds of the hydrogen found in the atomic form and the remaining one-third as molecular hydrogen.[61] The mass of the Milky Way's interstellar gas is equal to between 10%[61] and 15%[60] of the total mass of its stars. Interstellar dust accounts for an additional 1% of the total mass of the gas.[60]
+
+In March 2019, astronomers reported that the mass of the Milky Way galaxy is 1.5 trillion solar masses within a radius of about 129,000 light-years, over twice as much as was determined in earlier studies, and suggesting that about 90% of the mass of the galaxy is dark matter.[33][34]
+
+Contents
+
+360-degree panorama view of the Milky Way (an assembled mosaic of photographs) by ESO, the galactic centre is in the middle of the view, with galactic north up
+
+360-degree rendering of the Milky Way using Gaia EDR3 data showing interstellar gas, dust backlit by stars. Left hemisphere is facing the galactic center, right hemisphere is facing the galactic anticenter.
+The Milky Way contains between 100 and 400 billion stars[62][63] and at least that many planets.[64] An exact figure would depend on counting the number of very-low-mass stars, which are difficult to detect, especially at distances of more than 300 ly (90 pc) from the Sun. As a comparison, the neighboring Andromeda Galaxy contains an estimated one trillion (1012) stars.[65] The Milky Way may contain ten billion white dwarfs, a billion neutron stars, and a hundred million stellar black holes.[c][66][67][68][69] Filling the space between the stars is a disk of gas and dust called the interstellar medium. This disk has at least a comparable extent in radius to the stars,[70] whereas the thickness of the gas layer ranges from hundreds of light-years for the colder gas to thousands of light-years for warmer gas.[71][72]
+
+The disk of stars in the Milky Way does not have a sharp edge beyond which there are no stars. Rather, the concentration of stars decreases with distance from the center of the Milky Way. For reasons that are not understood, beyond a radius of roughly 40,000 light years (13 kpc) from the center, the number of stars per cubic parsec drops much faster with radius.[73] Surrounding the galactic disk is a spherical Galactic Halo of stars and globular clusters that extends farther outward, but is limited in size by the orbits of two Milky Way satellites, the Large and Small Magellanic Clouds, whose closest approach to the Galactic Center is about 180,000 ly (55 kpc).[74] At this distance or beyond, the orbits of most halo objects would be disrupted by the Magellanic Clouds. Hence, such objects would probably be ejected from the vicinity of the Milky Way. The integrated absolute visual magnitude of the Milky Way is estimated to be around -20.9.[75][76][d]
+
+Both gravitational microlensing and planetary transit observations indicate that there may be at least as many planets bound to stars as there are stars in the Milky Way,[29][77] and microlensing measurements indicate that there are more rogue planets not bound to host stars than there are stars.[78][79] The Milky Way contains at least one planet per star, resulting in 100–400 billion planets, according to a January 2013 study of the five-planet star system Kepler-32 by the Kepler space observatory.[30] A different January 2013 analysis of Kepler data estimated that at least 17 billion Earth-sized exoplanets reside in the Milky Way.[80] On November 4, 2013, astronomers reported, based on Kepler space mission data, that there could be as many as 40 billion Earth-sized planets orbiting in the habitable zones of Sun-like stars and red dwarfs within the Milky Way.[81][82][83] 11 billion of these estimated planets may be orbiting Sun-like stars.[84] The nearest exoplanet may be 4.2 light-years away, orbiting the red dwarf Proxima Centauri, according to a 2016 study.[85] Such Earth-sized planets may be more numerous than gas giants.[29] Besides exoplanets, "exocomets", comets beyond the Solar System, have also been detected and may be common in the Milky Way.[86] More recently, in November 2020, over 300 million habitable exoplanets are estimated to exist in the Milky Way Galaxy.[87]
+
+Structure
+File:Artist's impression of the Milky Way.ogv
+Artist's impression of how the Milky Way would look from different vantage points – from edge-on lines-of-sight, the peanut-shell-shaped structure, not to be confused with the galaxy's central bulge, is evident; viewed from above, the central narrow bar that is responsible for this structure appears clearly, as would many spiral arms and their associated dust clouds
+The Milky Way consists of a bar-shaped core region surrounded by a warped disk of gas, dust and stars.[88][89] The mass distribution within the Milky Way closely resembles the type Sbc in the Hubble classification, which represents spiral galaxies with relatively loosely wound arms.[4] Astronomers first began to conjecture that the Milky Way is a barred spiral galaxy, rather than an ordinary spiral galaxy, in the 1960s.[90][91][92] These conjectures were confirmed by the Spitzer Space Telescope observations in 2005[93] that showed the Milky Way's central bar to be larger than previously thought.
+
+Galactic quadrants
+Main article: Galactic quadrant
+
+Diagram of the Sun's location in the Milky Way, the angles represent longitudes in the galactic coordinate system.
+A galactic quadrant, or quadrant of the Milky Way, refers to one of four circular sectors in the division of the Milky Way. In astronomical practice, the delineation of the galactic quadrants is based upon the galactic coordinate system, which places the Sun as the origin of the mapping system.[94]
+
+Quadrants are described using ordinals – for example, "1st galactic quadrant",[95] "second galactic quadrant",[96] or "third quadrant of the Milky Way".[97] Viewing from the north galactic pole with 0° (zero degrees) as the ray that runs starting from the Sun and through the Galactic Center, the quadrants are:
+
+Galactic
+quadrant
+ 	Galactic
+longitude
+(l)	 
+Reference
+ 
+1st	0° ? l ? 90°  	[98]
+2nd	  90° ? l ? 180°	[96]
+3rd	180° ? l ? 270°	[97]
+4th
+ 	270° ? l ? 360°
+(360° ? 0°)	[95]
+ 
+with the galactic longitude (l) increasing in the counter-clockwise direction (positive rotation) as viewed from north of the galactic center (a view-point several hundred thousand light-years distant from Earth in the direction of the constellation Coma Berenices); if viewed from south of the galactic center (a view-point similarly distant in the constellation Sculptor), l would increase in the clockwise direction (negative rotation).
+
+Galactic Center
+Main article: Galactic Center
+The Sun is 25,000–28,000 ly (7.7–8.6 kpc) from the Galactic Center. This value is estimated using geometric-based methods or by measuring selected astronomical objects that serve as standard candles, with different techniques yielding various values within this approximate range.[99][2][3][100][101][102] In the inner few kiloparsecs (around 10,000 light-years radius) is a dense concentration of mostly old stars in a roughly spheroidal shape called the bulge.[103] It has been proposed that the Milky Way lacks a bulge due to a collision and merger between previous galaxies, and that instead it only has a pseudobulge formed by its central bar.[104] However, confusion in the literature between the (peanut shell)-shaped structure created by instabilities in the bar, versus a possible bulge with an expected half-light radius of 0.5 kpc,[105] abounds.
+
+
+Bright X-ray flares from Sagittarius A*, location of the supermassive black hole at the center of the Milky Way.[106]
+The Galactic Center is marked by an intense radio source named Sagittarius A* (pronounced Sagittarius A-star). The motion of material around the center indicates that Sagittarius A* harbors a massive, compact object.[107] This concentration of mass is best explained as a supermassive black hole[e][99][108] (SMBH) with an estimated mass of 4.1–4.5 million times the mass of the Sun.[108] The rate of accretion of the SMBH is consistent with an inactive galactic nucleus, being estimated at around 1×10-5 M? per year.[109] Observations indicate that there are SMBHs located near the center of most normal galaxies.[110][111]
+
+The nature of the Milky Way's bar is actively debated, with estimates for its half-length and orientation spanning from 1 to 5 kpc (3,000–16,000 ly) and 10–50 degrees relative to the line of sight from Earth to the Galactic Center.[101][102][112] Certain authors advocate that the Milky Way features two distinct bars, one nestled within the other.[113] However, RR Lyrae-type stars do not trace a prominent Galactic bar.[102][114][115] The bar may be surrounded by a ring called the "5 kpc ring" that contains a large fraction of the molecular hydrogen present in the Milky Way, as well as most of the Milky Way's star formation activity. Viewed from the Andromeda Galaxy, it would be the brightest feature of the Milky Way.[116] X-ray emission from the core is aligned with the massive stars surrounding the central bar[109] and the Galactic ridge.[117]
+
+Gamma rays and x-rays
+Since 1970, various gamma-ray detection missions have discovered 511-keV gamma rays coming from the general direction of the galactic center. These gamma rays are produced by positrons (antielectrons) annihilating with electrons. In 2008 it was found that the distribution of the sources of the gamma rays resembles the distribution of low-mass X-ray binaries, seeming to indicate that these X-ray binaries are sending positrons (and electrons) into interstellar space where they slow down and annihilate.[118][119][120] The observations were both made by NASA and ESA's satellites. In 1970 gamma ray detectors found that the emitting region was about 10,000 light-years across with a luminosity of about 10,000 suns.[119]
+
+
+Illustration of the two gigantic X-ray/gamma-ray bubbles (blue-violet) of the Milky Way (center)
+In 2010, two gigantic spherical bubbles of high energy gamma-emission were detected to the north and the south of the Milky Way core, using data from the Fermi Gamma-ray Space Telescope. The diameter of each of the bubbles is about 25,000 light-years (7.7 kpc) (or about 1/4 of the galaxy's estimated diameter); they stretch up to Grus and to Virgo on the night-sky of the southern hemisphere.[121][122] Subsequently, observations with the Parkes Telescope at radio frequencies identified polarized emission that is associated with the Fermi bubbles. These observations are best interpreted as a magnetized outflow driven by star formation in the central 640 ly (200 pc) of the Milky Way.[123]
+
+Later, on January 5, 2015, NASA reported observing an X-ray flare 400 times brighter than usual, a record-breaker, from Sagittarius A*. The unusual event may have been caused by the breaking apart of an asteroid falling into the black hole or by the entanglement of magnetic field lines within gas flowing into Sagittarius A*.[106]
+
+Spiral arms
+Further information: Spiral galaxy
+Outside the gravitational influence of the Galactic bar, the structure of the interstellar medium and stars in the disk of the Milky Way is organized into four spiral arms.[124] Spiral arms typically contain a higher density of interstellar gas and dust than the Galactic average as well as a greater concentration of star formation, as traced by H II regions[125][126] and molecular clouds.[127]
+
+The Milky Way's spiral structure is uncertain, and there is currently no consensus on the nature of the Milky Way's arms.[128] Perfect logarithmic spiral patterns only crudely describe features near the Sun,[126][129] because galaxies commonly have arms that branch, merge, twist unexpectedly, and feature a degree of irregularity.[102][129][130] The possible scenario of the Sun within a spur / Local arm[126] emphasizes that point and indicates that such features are probably not unique, and exist elsewhere in the Milky Way.[129] Estimates of the pitch angle of the arms range from about 7° to 25°.[70][131] There are thought to be four spiral arms that all start near the Milky Way Galaxy's center.[132] These are named as follows, with the positions of the arms shown in the image below:
+
+
+Observed (normal lines) and extrapolated (dotted lines) structure of the spiral arms of the Milky Way, viewed from "north" of the galaxy – stars generally move clockwise in this view. The gray lines radiating from the Sun's position (upper center) list the three-letter abbreviations of the corresponding constellations
+
+Spitzer reveals what cannot be seen in visible light: cooler stars (blue), heated dust (reddish hue), and Sgr A* as bright white spot in the middle.
+
+Artist's conception of the spiral structure of the Milky Way with two major stellar arms and a bar.[128]
+Color	Arm(s)
+turquoise	Near 3 kpc Arm and Perseus Arm
+blue	Norma and Outer arm (Along with extension discovered in 2004[133])
+green	Scutum–Centaurus Arm
+red	Carina-Sagittarius Arm
+There are at least two smaller arms or spurs, including:
+orange	Orion–Cygnus Arm (which contains the Sun and Solar System)
+Two spiral arms, the Scutum–Centaurus arm and the Carina–Sagittarius arm, have tangent points inside the Sun's orbit about the center of the Milky Way. If these arms contain an overdensity of stars compared to the average density of stars in the Galactic disk, it would be detectable by counting the stars near the tangent point. Two surveys of near-infrared light, which is sensitive primarily to red giants and not affected by dust extinction, detected the predicted overabundance in the Scutum–Centaurus arm but not in the Carina–Sagittarius arm: the Scutum–Centaurus Arm contains approximately 30% more red giants than would be expected in the absence of a spiral arm.[131][134] This observation suggests that the Milky Way possesses only two major stellar arms: the Perseus arm and the Scutum–Centaurus arm. The rest of the arms contain excess gas but not excess old stars.[128] In December 2013, astronomers found that the distribution of young stars and star-forming regions matches the four-arm spiral description of the Milky Way.[135][136][137] Thus, the Milky Way appears to have two spiral arms as traced by old stars and four spiral arms as traced by gas and young stars. The explanation for this apparent discrepancy is unclear.[137]
+
+
+Clusters detected by WISE used to trace the Milky Way's spiral arms.
+The Near 3 kpc Arm (also called the Expanding 3 kpc Arm or simply the 3 kpc Arm) was discovered in the 1950s by astronomer van Woerden and collaborators through 21 centimeter radio measurements of HI (atomic hydrogen).[138][139] It was found to be expanding away from the central bulge at more than 50 km/s. It is located in the fourth galactic quadrant at a distance of about 5.2 kpc from the Sun and 3.3 kpc from the Galactic Center. The Far 3 kpc Arm was discovered in 2008 by astronomer Tom Dame (Harvard–Smithsonian CfA). It is located in the first galactic quadrant at a distance of 3 kpc (about 10,000 ly) from the Galactic Center.[139][140]
+
+A simulation published in 2011 suggested that the Milky Way may have obtained its spiral arm structure as a result of repeated collisions with the Sagittarius Dwarf Elliptical Galaxy.[141]
+
+It has been suggested that the Milky Way contains two different spiral patterns: an inner one, formed by the Sagittarius arm, that rotates fast and an outer one, formed by the Carina and Perseus arms, whose rotation velocity is slower and whose arms are tightly wound. In this scenario, suggested by numerical simulations of the dynamics of the different spiral arms, the outer pattern would form an outer pseudoring,[142] and the two patterns would be connected by the Cygnus arm.[143]
+
+
+The long filamentary molecular cloud dubbed "Nessie" probably forms a dense "spine" of the Scutum–Centarus Arm
+Outside of the major spiral arms is the Monoceros Ring (or Outer Ring), a ring of gas and stars torn from other galaxies billions of years ago. However, several members of the scientific community recently restated their position affirming the Monoceros structure is nothing more than an over-density produced by the flared and warped thick disk of the Milky Way.[144] The structure of the Milky Way's disk is warped along an "S" curve.[145]
+
+Halo
+The Galactic disk is surrounded by a spheroidal halo of old stars and globular clusters, of which 90% lie within 100,000 light-years (30 kpc) of the Galactic Center.[146] However, a few globular clusters have been found farther, such as PAL 4 and AM 1 at more than 200,000 light-years from the Galactic Center. About 40% of the Milky Way's clusters are on retrograde orbits, which means they move in the opposite direction from the Milky Way rotation.[147] The globular clusters can follow rosette orbits about the Milky Way, in contrast to the elliptical orbit of a planet around a star.[148]
+
+Although the disk contains dust that obscures the view in some wavelengths, the halo component does not. Active star formation takes place in the disk (especially in the spiral arms, which represent areas of high density), but does not take place in the halo, as there is little cool gas to collapse into stars.[17] Open clusters are also located primarily in the disk.[149]
+
+Discoveries in the early 21st century have added dimension to the knowledge of the Milky Way's structure. With the discovery that the disk of the Andromeda Galaxy (M31) extends much farther than previously thought,[150] the possibility of the disk of the Milky Way extending farther is apparent, and this is supported by evidence from the discovery of the Outer Arm extension of the Cygnus Arm[133][151] and of a similar extension of the Scutum–Centaurus Arm.[152] With the discovery of the Sagittarius Dwarf Elliptical Galaxy came the discovery of a ribbon of galactic debris as the polar orbit of the dwarf and its interaction with the Milky Way tears it apart. Similarly, with the discovery of the Canis Major Dwarf Galaxy, it was found that a ring of galactic debris from its interaction with the Milky Way encircles the Galactic disk.
+
+The Sloan Digital Sky Survey of the northern sky shows a huge and diffuse structure (spread out across an area around 5,000 times the size of a full moon) within the Milky Way that does not seem to fit within current models. The collection of stars rises close to perpendicular to the plane of the spiral arms of the Milky Way. The proposed likely interpretation is that a dwarf galaxy is merging with the Milky Way. This galaxy is tentatively named the Virgo Stellar Stream and is found in the direction of Virgo about 30,000 light-years (9 kpc) away.[153]
+
+Gaseous halo
+In addition to the stellar halo, the Chandra X-ray Observatory, XMM-Newton, and Suzaku have provided evidence that there is a gaseous halo with a large amount of hot gas. The halo extends for hundreds of thousand of light-years, much farther than the stellar halo and close to the distance of the Large and Small Magellanic Clouds. The mass of this hot halo is nearly equivalent to the mass of the Milky Way itself.[154][155][156] The temperature of this halo gas is between 1 and 2.5 million K (1.8 and 4.5 million °F).[157]
+
+Observations of distant galaxies indicate that the Universe had about one-sixth as much baryonic (ordinary) matter as dark matter when it was just a few billion years old. However, only about half of those baryons are accounted for in the modern Universe based on observations of nearby galaxies like the Milky Way.[158] If the finding that the mass of the halo is comparable to the mass of the Milky Way is confirmed, it could be the identity of the missing baryons around the Milky Way.[158]
+
+Sun's location and neighborhood
+
+3-D map of the stars in the Solar neighborhood.
+The Sun is near the inner rim of the Orion Arm, within the Local Fluff of the Local Bubble, and in the Gould Belt. Based upon studies of stellar orbits around Sgr A* by Gillessen et al. (2016), the Sun lies at an estimated distance of 27.14 ± 0.46 kly (8.32 ± 0.14 kpc)[3] from the Galactic Center. Boehle et al. (2016) found a smaller value of 25.64 ± 0.46 kly (7.86 ± 0.14 kpc), also using a star orbit analysis.[2] The Sun is currently 5–30 parsecs (16–98 ly) above, or north of, the central plane of the Galactic disk.[159] The distance between the local arm and the next arm out, the Perseus Arm, is about 2,000 parsecs (6,500 ly).[160] The Sun, and thus the Solar System, is located in the Milky Way's galactic habitable zone.
+
+There are about 208 stars brighter than absolute magnitude 8.5 within a sphere with a radius of 15 parsecs (49 ly) from the Sun, giving a density of one star per 69 cubic parsecs, or one star per 2,360 cubic light-years (from List of nearest bright stars). On the other hand, there are 64 known stars (of any magnitude, not counting 4 brown dwarfs) within 5 parsecs (16 ly) of the Sun, giving a density of about one star per 8.2 cubic parsecs, or one per 284 cubic light-years (from List of nearest stars). This illustrates the fact that there are far more faint stars than bright stars: in the entire sky, there are about 500 stars brighter than apparent magnitude 4 but 15.5 million stars brighter than apparent magnitude 14.[161]
+
+The apex of the Sun's way, or the solar apex, is the direction that the Sun travels through space in the Milky Way. The general direction of the Sun's Galactic motion is towards the star Vega near the constellation of Hercules, at an angle of roughly 60 sky degrees to the direction of the Galactic Center. The Sun's orbit about the Milky Way is expected to be roughly elliptical with the addition of perturbations due to the Galactic spiral arms and non-uniform mass distributions. In addition, the Sun passes through the Galactic plane approximately 2.7 times per orbit.[162] This is very similar to how a simple harmonic oscillator works with no drag force (damping) term. These oscillations were until recently thought to coincide with mass lifeform extinction periods on Earth.[163] A reanalysis of the effects of the Sun's transit through the spiral structure based on CO data has failed to find a correlation.[164] However, the Sun's transit through the galactic plane is still considered a possible explanation for extinctions, and this is called the Shiva Hypothesis.[165]
+
+It takes the Solar System about 240 million years to complete one orbit of the Milky Way (a galactic year),[17] so the Sun is thought to have completed 18–20 orbits during its lifetime and 1/1250 of a revolution since the origin of humans. The orbital speed of the Solar System about the center of the Milky Way is approximately 220 km/s (490,000 mph) or 0.073% of the speed of light. The Sun moves through the heliosphere at 84,000 km/h (52,000 mph). At this speed, it takes around 1,400 years for the Solar System to travel a distance of 1 light-year, or 8 days to travel 1 AU (astronomical unit).[166] The Solar System is headed in the direction of the zodiacal constellation Scorpius, which follows the ecliptic.[167]
+
+Galactic rotation
+
+Galaxy rotation curve for the Milky Way – vertical axis is speed of rotation about the galactic center; horizontal axis is distance from the galactic center in kpcs; the sun is marked with a yellow ball; the observed curve of speed of rotation is blue; the predicted curve based upon stellar mass and gas in the Milky Way is red; scatter in observations roughly indicated by gray bars, the difference is due to dark matter[35][168][169]
+The stars and gas in the Milky Way rotate about its center differentially, meaning that the rotation period varies with location. As is typical for spiral galaxies, the orbital speed of most stars in the Milky Way does not depend strongly on their distance from the center. Away from the central bulge or outer rim, the typical stellar orbital speed is between 210 ± 10 km/s (470,000 ± 22,000 mph).[170] Hence the orbital period of the typical star is directly proportional only to the length of the path traveled. This is unlike the situation within the Solar System, where two-body gravitational dynamics dominate, and different orbits have significantly different velocities associated with them. The rotation curve (shown in the figure) describes this rotation. Toward the center of the Milky Way the orbit speeds are too low, whereas beyond 7 kpcs the speeds are too high to match what would be expected from the universal law of gravitation.
+
+If the Milky Way contained only the mass observed in stars, gas, and other baryonic (ordinary) matter, the rotational speed would decrease with distance from the center. However, the observed curve is relatively flat, indicating that there is additional mass that cannot be detected directly with electromagnetic radiation. This inconsistency is attributed to dark matter.[35] The rotation curve of the Milky Way agrees with the universal rotation curve of spiral galaxies, the best evidence for the existence of dark matter in galaxies. Alternatively, a minority of astronomers propose that a modification of the law of gravity may explain the observed rotation curve.[171]
+
+Formation
+Main article: Galaxy formation and evolution
+History
+The Milky Way began as one or several small overdensities in the mass distribution in the Universe shortly after the Big Bang.[172] Some of these overdensities were the seeds of globular clusters in which the oldest remaining stars in what is now the Milky Way formed. Nearly half the matter in the Milky Way may have come from other distant galaxies.[172] Nonetheless, these stars and clusters now comprise the stellar halo of the Milky Way. Within a few billion years of the birth of the first stars, the mass of the Milky Way was large enough so that it was spinning relatively quickly. Due to conservation of angular momentum, this led the gaseous interstellar medium to collapse from a roughly spheroidal shape to a disk. Therefore, later generations of stars formed in this spiral disk. Most younger stars, including the Sun, are observed to be in the disk.[173][174]
+
+Since the first stars began to form, the Milky Way has grown through both galaxy mergers (particularly early in the Milky Way's growth) and accretion of gas directly from the Galactic halo.[174] The Milky Way is currently accreting material from several small galaxies, including two of its largest satellite galaxies, the Large and Small Magellanic Clouds, through the Magellanic Stream. Direct accretion of gas is observed in high-velocity clouds like the Smith Cloud.[175][176] Cosmological simulations indicate that, 11 billion years ago, it merged with a particularly large galaxy that has been labeled the Kraken.[177][178] However, properties of the Milky Way such as stellar mass, angular momentum, and metallicity in its outermost regions suggest it has undergone no mergers with large galaxies in the last 10 billion years. This lack of recent major mergers is unusual among similar spiral galaxies; its neighbour the Andromeda Galaxy appears to have a more typical history shaped by more recent mergers with relatively large galaxies.[179][180]
+
+According to recent studies, the Milky Way as well as the Andromeda Galaxy lie in what in the galaxy color–magnitude diagram is known as the "green valley", a region populated by galaxies in transition from the "blue cloud" (galaxies actively forming new stars) to the "red sequence" (galaxies that lack star formation). Star-formation activity in green valley galaxies is slowing as they run out of star-forming gas in the interstellar medium. In simulated galaxies with similar properties, star formation will typically have been extinguished within about five billion years from now, even accounting for the expected, short-term increase in the rate of star formation due to the collision between both the Milky Way and the Andromeda Galaxy.[181] In fact, measurements of other galaxies similar to the Milky Way suggest it is among the reddest and brightest spiral galaxies that are still forming new stars and it is just slightly bluer than the bluest red sequence galaxies.[182]

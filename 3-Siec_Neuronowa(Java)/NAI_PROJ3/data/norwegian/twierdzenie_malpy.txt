@@ -1,0 +1,22 @@
+Setningen om uendelig mange aper (engelsk: the infinite monkey theorem) sier at hvis en ape trykker tilfeldig pa en skrivemaskin over et uendelig langt tidsrom, vil den nesten helt sikkert inntaste eller forfatte en gitt tekst, for eksempel William Shakespeares komplette verker. Bemerk at «nesten helt sikkert» i denne sammenhengen er et matematisk uttrykk med en spesifikk betydning, og at «apen» ikke er en virkelig ape, men snarere en metafor for en abstrakt anordning som produserer tilfeldige bokstavsekvenser.
+
+Bevis
+Setningen er relativt enkel a bevise. For to statistisk uavhengige hendelser (der den ene hendelsen ikke pavirker sannsynligheten for den andre), er sannsynligheten for at begge skal inntreffe, produktet av sannsynligheten for hver av de to. Hvis sannsynligheten for regn en tilfeldig dag i Sydney er 0,3 og sannsynligheten for jordskjelv i San Francisco er 0,008, er sannsynligheten for at begge hendelser inntreffer pa samme dag 0,3 · 0,008 = 0,0024.
+
+Vi kan anta at en skrivemaskin har 50 taster, og at en ape «forsoker» a skrive ordet banan. Hvis tastene velges tilfeldig, er sannsynligheten for at den forste bokstaven skal vare b lik 1/50, det samme er sannsynligheten for at den andre bokstaven er a, og sa videre. Disse hendelsene er uavhengige, sannsynligheten for at de fem forste bokstavene danner ordet banan er derfor:
+
+(1/50) · (1/50) · (1/50) · (1/50) · (1/50) = (1/50)5.
+Sannsynligheten for at ordet ikke blir banan i en slik blokk pa fem bokstaver, er dermed 1 – (1/50)5 og sannsynligheten for a ikke skrive "banan" i noen av de n forste blokkene av tegn er da:
+
+{\displaystyle X_{n}=\left(1-{\frac {1}{50^{5}}}\right)^{n}}{\displaystyle X_{n}=\left(1-{\frac {1}{50^{5}}}\right)^{n}}
+Nar n oker, blir Xn mindre. Nar n = 1 million er sannsynligheten (Xn) lik 99,68 %, men nar n = 200 millioner narmer den seg 50 % og for n = 2 milliarder narmer den seg en promille. Om vi dessuten regner med tilfeller der ordet skrives pa tvers av blokkgrensene, synker sannsynligheten for a ikke fa med ordet i bokstavrekken enda raskere. Samme resonnement gjelder for lengre bokstavrekker. Nar n gar mot uendelig, narmer Xn seg null.
+
+Dette betyr at det er 100 % sannsynlighet for at en eller flere av et uendelig antall aper vil produsere en gitt tekst pa forste forsok (eller at de nesten helt sikkert vil gjore dette). Dette viser hvorfor uendelig mange aper (nesten helt sikkert) vil skrive en tekst like fort som et menneske som taster helt presist og kopierer teksten fra originalen.
+
+Sannsynlighet
+Hvis man ser bort fra tegnsetting, mellomrom og store bokstaver, vil en ape som taster tilfeldige bokstaver, ha sannsynligheten én til 26 for a taste den forste bokstaven i Hamlet riktig (hvis man begrenser seg til det engelske alfabetet). Den har sjansen én til 676 (26 ganger 26) for a taste de to forste bokstavene korrekt. Fordi sannsynligheten minker eksponentielt, vil den etter 20 bokstaver bare ha sjansen 1 til 2620 = 19 928 148 895 209 410 000 000 000 000, noe som omtrent svarer til sjansen for a vinne forstepremie i amerikansk lotto fire ganger pa rad. Sjansen for a skrive hele Hamlet ved a taste tilfeldige bokstaver, er derfor sa forsvinnende liten at den narmest er umulig a fatte. Selv hvis man fjerner all tegnsetting, inneholder teksten i Hamlet mer enn 130 000 bokstaver, noe som forer til en sannsynlighet pa 1 til 3,4 · 10183946. Til sammenligning er det kun rundt 1079 atomer i det synlige univers, og det er bare gatt 1017 sekunder siden Big Bang.
+
+Likevel er det at det faktisk finnes en viss sjanse, selv om den er ekstremt liten, nokkelen til setningen om uendelig mange aper, fordi Kolmogorovs lov sier at en slik en uendelig folge av uavhengige hendelser enten ma ha sannsynligheten 0 eller 1. Ettersom vi ovenfor har vist at sjansen ikke er 0, ma den vare 1.
+
+Gian-Carlo Rota skrev i en larebok om sannsynlighet (som ikke ble ferdig for hans dod):
+Laquote.svgHvis apen kunne utfore et tasteslag hvert nanosekund, vil den forventede ventetid for apen har skrevet Hamlet vare sa lang at universets anslatte alder er ubetydelig i sammenligning (...) dette er ikke en praktisk metode for a skrive skuespill.Raquote.svg

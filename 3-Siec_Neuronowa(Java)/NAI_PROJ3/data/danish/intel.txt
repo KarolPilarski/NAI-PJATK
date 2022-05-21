@@ -1,0 +1,18 @@
+Intel Corporation (ogsa kendt som Intel) er et amerikansk multinationalt teknologiselskab med hovedkvarter i Santa Clara i Californien, USA. Det er malt pa omsatning verdens storste og mest vardifulde producent af halvlederchips og opfinderen af x86 mikroprocessorer, som findes i de fleste PC'er.
+
+
+Indholdsfortegnelse
+1	Historie
+2	Regnskaber og ansatte
+3	Danmark
+4	Se ogsa
+5	Henvisninger
+6	Eksterne henvisninger
+Historie
+Intel blev grundlagt i 1968 af halvlederpionererne Robert Noyce og Gordon Moore. Navnet er en sammentrakning af integrated og electronic. I de forste ar var firmaets vigtigste forretningsomrade hukommelseschips (SRAM og DRAM), men med PC'ens globale gennembrud overtog mikroprocessoren det meste af opmarksomheden. Siden har Intel varet verdens forende producent af mikroprocessorer.
+
+Regnskaber og ansatte
+I 2016 havde Intel i alt 107.300 ansatte [1] og en arsomsatning pa 59,38 mia USD, et nettooverskud pa 10,31 mia USD og vardier for 113,3 mia USD.
+
+Danmark
+I Danmark har firmaet en udviklings- og forskningsafdeling i Aalborg med omkring 200 ingeniorer, der isar arbejder med antenner og mobiltelefoners stromforbrug. En truet lukning af denne enhed blev annulleret i juni 2016.[2]
